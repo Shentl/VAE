@@ -28,7 +28,11 @@ echo "--batch_size 64 --z_dim 2 --l1 1 --epoch 100"
 python -u main.py --cuda --batch_size 64 --z_dim 2 --l1 1 --epoch 100 --save z_dim_1
 ```
 #### 添加噪声的尝试（DVAE）
-run.sh中的下面这部分
+只需要在脚本中加入
+```
+--add_noise
+```
+对应run.sh中的下面这部分
 ```angular2html
 echo "DVAE"
 echo "Add_noise --batch_size 64 --z_dim 1 --l1 2 --epoch 100"
@@ -37,7 +41,11 @@ echo "Add_noise --batch_size 64 --z_dim 2 --l1 1 --epoch 100"
 python -u main.py --cuda --batch_size 64 --z_dim 2 --l1 1 --epoch 100 --save z_dim_1 --add_noise
 ```
 #### 添加BN的尝试（BN-VAE）
-run.sh中的下面这部分
+只需要在脚本中加入
+```
+--add_BN
+```
+对应run.sh中的下面这部分
 ```angular2html
 echo "BN VAE"
 echo "Add_BN --batch_size 64 --z_dim 1 --l1 2 --epoch 100"
