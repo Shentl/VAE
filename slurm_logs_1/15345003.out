@@ -1,0 +1,1206 @@
+--batch_size 64 --z_dim 1 --l1 0 --epoch 100
+Train Epoch: 1 [0/60000 (0%)]	Loss: 546.017578	ReLoss: 546.017578	KLDLoss: 0.000682
+Train Epoch: 1 [19200/60000 (32%)]	Loss: 182.767227	ReLoss: 182.767227	KLDLoss: 10.233571
+Train Epoch: 1 [38400/60000 (64%)]	Loss: 178.887695	ReLoss: 178.887695	KLDLoss: 7.998724
+Train Epoch: 1 [57600/60000 (96%)]	Loss: 170.220123	ReLoss: 170.220123	KLDLoss: 7.646466
+===> Epoch: 1 Average loss: 182.6468, Kld loss: 9.6444, Recon loss: 182.6468
+===> Test loss: 169.1428, Kld loss: 16.7348, Recon loss: 169.1428
+Train Epoch: 2 [0/60000 (0%)]	Loss: 176.674377	ReLoss: 176.674377	KLDLoss: 16.214905
+Train Epoch: 2 [19200/60000 (32%)]	Loss: 165.059540	ReLoss: 165.059540	KLDLoss: 15.720688
+Train Epoch: 2 [38400/60000 (64%)]	Loss: 171.550568	ReLoss: 171.550568	KLDLoss: 13.164907
+Train Epoch: 2 [57600/60000 (96%)]	Loss: 156.964783	ReLoss: 156.964783	KLDLoss: 18.449070
+===> Epoch: 2 Average loss: 167.3154, Kld loss: 18.8523, Recon loss: 167.3154
+===> Test loss: 164.7982, Kld loss: 20.4446, Recon loss: 164.7982
+Train Epoch: 3 [0/60000 (0%)]	Loss: 144.003189	ReLoss: 144.003189	KLDLoss: 22.145449
+Train Epoch: 3 [19200/60000 (32%)]	Loss: 166.482330	ReLoss: 166.482330	KLDLoss: 19.652807
+Train Epoch: 3 [38400/60000 (64%)]	Loss: 153.130951	ReLoss: 153.130951	KLDLoss: 22.165497
+Train Epoch: 3 [57600/60000 (96%)]	Loss: 160.049911	ReLoss: 160.049911	KLDLoss: 16.027624
+===> Epoch: 3 Average loss: 163.0851, Kld loss: 19.4079, Recon loss: 163.0851
+===> Test loss: 161.2488, Kld loss: 22.5787, Recon loss: 161.2488
+Train Epoch: 4 [0/60000 (0%)]	Loss: 159.444611	ReLoss: 159.444611	KLDLoss: 12.794786
+Train Epoch: 4 [19200/60000 (32%)]	Loss: 169.346161	ReLoss: 169.346161	KLDLoss: 30.125658
+Train Epoch: 4 [38400/60000 (64%)]	Loss: 151.841431	ReLoss: 151.841431	KLDLoss: 20.801353
+Train Epoch: 4 [57600/60000 (96%)]	Loss: 162.231537	ReLoss: 162.231537	KLDLoss: 21.691828
+===> Epoch: 4 Average loss: 160.3840, Kld loss: 21.1669, Recon loss: 160.3840
+===> Test loss: 159.5070, Kld loss: 20.8953, Recon loss: 159.5070
+Train Epoch: 5 [0/60000 (0%)]	Loss: 159.106842	ReLoss: 159.106842	KLDLoss: 16.771414
+Train Epoch: 5 [19200/60000 (32%)]	Loss: 153.714905	ReLoss: 153.714905	KLDLoss: 26.891087
+Train Epoch: 5 [38400/60000 (64%)]	Loss: 149.460632	ReLoss: 149.460632	KLDLoss: 20.312208
+Train Epoch: 5 [57600/60000 (96%)]	Loss: 161.343506	ReLoss: 161.343506	KLDLoss: 11.483036
+===> Epoch: 5 Average loss: 158.0919, Kld loss: 20.0677, Recon loss: 158.0919
+===> Test loss: 157.6015, Kld loss: 19.6598, Recon loss: 157.6015
+Train Epoch: 6 [0/60000 (0%)]	Loss: 160.245834	ReLoss: 160.245834	KLDLoss: 23.940632
+Train Epoch: 6 [19200/60000 (32%)]	Loss: 146.459335	ReLoss: 146.459335	KLDLoss: 30.521858
+Train Epoch: 6 [38400/60000 (64%)]	Loss: 157.625488	ReLoss: 157.625488	KLDLoss: 22.416143
+Train Epoch: 6 [57600/60000 (96%)]	Loss: 163.091949	ReLoss: 163.091949	KLDLoss: 18.281324
+===> Epoch: 6 Average loss: 156.9480, Kld loss: 20.8214, Recon loss: 156.9480
+===> Test loss: 156.2838, Kld loss: 21.0554, Recon loss: 156.2838
+Train Epoch: 7 [0/60000 (0%)]	Loss: 147.766296	ReLoss: 147.766296	KLDLoss: 19.242241
+Train Epoch: 7 [19200/60000 (32%)]	Loss: 164.418335	ReLoss: 164.418335	KLDLoss: 27.832369
+Train Epoch: 7 [38400/60000 (64%)]	Loss: 160.156570	ReLoss: 160.156570	KLDLoss: 18.629179
+Train Epoch: 7 [57600/60000 (96%)]	Loss: 173.731384	ReLoss: 173.731384	KLDLoss: 19.414824
+===> Epoch: 7 Average loss: 155.6169, Kld loss: 20.3440, Recon loss: 155.6169
+===> Test loss: 155.3353, Kld loss: 21.5894, Recon loss: 155.3353
+Train Epoch: 8 [0/60000 (0%)]	Loss: 163.669037	ReLoss: 163.669037	KLDLoss: 13.219965
+Train Epoch: 8 [19200/60000 (32%)]	Loss: 155.143890	ReLoss: 155.143890	KLDLoss: 14.817770
+Train Epoch: 8 [38400/60000 (64%)]	Loss: 159.758438	ReLoss: 159.758438	KLDLoss: 26.056770
+Train Epoch: 8 [57600/60000 (96%)]	Loss: 158.063431	ReLoss: 158.063431	KLDLoss: 15.771277
+===> Epoch: 8 Average loss: 155.5927, Kld loss: 21.7089, Recon loss: 155.5927
+===> Test loss: 155.7231, Kld loss: 20.8368, Recon loss: 155.7231
+Train Epoch: 9 [0/60000 (0%)]	Loss: 147.795593	ReLoss: 147.795593	KLDLoss: 25.216198
+Train Epoch: 9 [19200/60000 (32%)]	Loss: 157.020004	ReLoss: 157.020004	KLDLoss: 19.658274
+Train Epoch: 9 [38400/60000 (64%)]	Loss: 157.694336	ReLoss: 157.694336	KLDLoss: 28.256258
+Train Epoch: 9 [57600/60000 (96%)]	Loss: 157.324707	ReLoss: 157.324707	KLDLoss: 19.262339
+===> Epoch: 9 Average loss: 154.6395, Kld loss: 21.8121, Recon loss: 154.6395
+===> Test loss: 154.9477, Kld loss: 21.8006, Recon loss: 154.9477
+Train Epoch: 10 [0/60000 (0%)]	Loss: 155.400696	ReLoss: 155.400696	KLDLoss: 21.110764
+Train Epoch: 10 [19200/60000 (32%)]	Loss: 147.756348	ReLoss: 147.756348	KLDLoss: 23.735790
+Train Epoch: 10 [38400/60000 (64%)]	Loss: 157.883591	ReLoss: 157.883591	KLDLoss: 25.947302
+Train Epoch: 10 [57600/60000 (96%)]	Loss: 151.430145	ReLoss: 151.430145	KLDLoss: 32.774590
+===> Epoch: 10 Average loss: 153.8205, Kld loss: 22.2947, Recon loss: 153.8205
+===> Test loss: 153.4539, Kld loss: 21.8249, Recon loss: 153.4539
+Train Epoch: 11 [0/60000 (0%)]	Loss: 158.652206	ReLoss: 158.652206	KLDLoss: 15.303825
+Train Epoch: 11 [19200/60000 (32%)]	Loss: 165.916504	ReLoss: 165.916504	KLDLoss: 18.363791
+Train Epoch: 11 [38400/60000 (64%)]	Loss: 154.238983	ReLoss: 154.238983	KLDLoss: 22.227604
+Train Epoch: 11 [57600/60000 (96%)]	Loss: 152.660400	ReLoss: 152.660400	KLDLoss: 16.262280
+===> Epoch: 11 Average loss: 153.5561, Kld loss: 21.4920, Recon loss: 153.5561
+===> Test loss: 153.5693, Kld loss: 22.1866, Recon loss: 153.5693
+Train Epoch: 12 [0/60000 (0%)]	Loss: 146.779282	ReLoss: 146.779282	KLDLoss: 30.860111
+Train Epoch: 12 [19200/60000 (32%)]	Loss: 147.146179	ReLoss: 147.146179	KLDLoss: 30.854414
+Train Epoch: 12 [38400/60000 (64%)]	Loss: 154.352875	ReLoss: 154.352875	KLDLoss: 19.542479
+Train Epoch: 12 [57600/60000 (96%)]	Loss: 153.522873	ReLoss: 153.522873	KLDLoss: 20.847635
+===> Epoch: 12 Average loss: 153.0897, Kld loss: 24.2533, Recon loss: 153.0897
+===> Test loss: 153.6349, Kld loss: 24.3461, Recon loss: 153.6349
+Train Epoch: 13 [0/60000 (0%)]	Loss: 162.189087	ReLoss: 162.189087	KLDLoss: 20.452621
+Train Epoch: 13 [19200/60000 (32%)]	Loss: 158.883118	ReLoss: 158.883118	KLDLoss: 17.469637
+Train Epoch: 13 [38400/60000 (64%)]	Loss: 155.108734	ReLoss: 155.108734	KLDLoss: 25.704941
+Train Epoch: 13 [57600/60000 (96%)]	Loss: 159.404953	ReLoss: 159.404953	KLDLoss: 16.953850
+===> Epoch: 13 Average loss: 153.2925, Kld loss: 24.9572, Recon loss: 153.2925
+===> Test loss: 152.8969, Kld loss: 24.4134, Recon loss: 152.8969
+Train Epoch: 14 [0/60000 (0%)]	Loss: 152.698196	ReLoss: 152.698196	KLDLoss: 29.185892
+Train Epoch: 14 [19200/60000 (32%)]	Loss: 147.618774	ReLoss: 147.618774	KLDLoss: 21.374804
+Train Epoch: 14 [38400/60000 (64%)]	Loss: 149.394501	ReLoss: 149.394501	KLDLoss: 24.640232
+Train Epoch: 14 [57600/60000 (96%)]	Loss: 146.083954	ReLoss: 146.083954	KLDLoss: 21.923977
+===> Epoch: 14 Average loss: 152.8984, Kld loss: 24.7481, Recon loss: 152.8984
+===> Test loss: 153.4063, Kld loss: 24.8764, Recon loss: 153.4063
+Train Epoch: 15 [0/60000 (0%)]	Loss: 162.651764	ReLoss: 162.651764	KLDLoss: 17.234367
+Train Epoch: 15 [19200/60000 (32%)]	Loss: 164.266205	ReLoss: 164.266205	KLDLoss: 23.850170
+Train Epoch: 15 [38400/60000 (64%)]	Loss: 142.250854	ReLoss: 142.250854	KLDLoss: 27.711555
+Train Epoch: 15 [57600/60000 (96%)]	Loss: 155.229431	ReLoss: 155.229431	KLDLoss: 19.539051
+===> Epoch: 15 Average loss: 152.4487, Kld loss: 24.4353, Recon loss: 152.4487
+===> Test loss: 152.6798, Kld loss: 23.5088, Recon loss: 152.6798
+Train Epoch: 16 [0/60000 (0%)]	Loss: 156.228912	ReLoss: 156.228912	KLDLoss: 23.135006
+Train Epoch: 16 [19200/60000 (32%)]	Loss: 148.853149	ReLoss: 148.853149	KLDLoss: 26.937099
+Train Epoch: 16 [38400/60000 (64%)]	Loss: 152.899887	ReLoss: 152.899887	KLDLoss: 22.264687
+Train Epoch: 16 [57600/60000 (96%)]	Loss: 154.262238	ReLoss: 154.262238	KLDLoss: 20.395311
+===> Epoch: 16 Average loss: 152.1131, Kld loss: 23.1220, Recon loss: 152.1131
+===> Test loss: 153.6337, Kld loss: 22.2510, Recon loss: 153.6337
+Train Epoch: 17 [0/60000 (0%)]	Loss: 153.138718	ReLoss: 153.138718	KLDLoss: 19.248665
+Train Epoch: 17 [19200/60000 (32%)]	Loss: 145.346100	ReLoss: 145.346100	KLDLoss: 24.294764
+Train Epoch: 17 [38400/60000 (64%)]	Loss: 150.905594	ReLoss: 150.905594	KLDLoss: 20.852917
+Train Epoch: 17 [57600/60000 (96%)]	Loss: 150.200089	ReLoss: 150.200089	KLDLoss: 31.906105
+===> Epoch: 17 Average loss: 152.0327, Kld loss: 25.0859, Recon loss: 152.0327
+===> Test loss: 151.8362, Kld loss: 26.2817, Recon loss: 151.8362
+Train Epoch: 18 [0/60000 (0%)]	Loss: 137.341675	ReLoss: 137.341675	KLDLoss: 33.243137
+Train Epoch: 18 [19200/60000 (32%)]	Loss: 150.291534	ReLoss: 150.291534	KLDLoss: 24.924107
+Train Epoch: 18 [38400/60000 (64%)]	Loss: 153.752777	ReLoss: 153.752777	KLDLoss: 23.949486
+Train Epoch: 18 [57600/60000 (96%)]	Loss: 157.801056	ReLoss: 157.801056	KLDLoss: 31.419643
+===> Epoch: 18 Average loss: 151.6193, Kld loss: 26.8506, Recon loss: 151.6193
+===> Test loss: 151.1725, Kld loss: 27.1592, Recon loss: 151.1725
+Train Epoch: 19 [0/60000 (0%)]	Loss: 141.517563	ReLoss: 141.517563	KLDLoss: 23.483425
+Train Epoch: 19 [19200/60000 (32%)]	Loss: 149.004990	ReLoss: 149.004990	KLDLoss: 38.488934
+Train Epoch: 19 [38400/60000 (64%)]	Loss: 158.224731	ReLoss: 158.224731	KLDLoss: 37.745857
+Train Epoch: 19 [57600/60000 (96%)]	Loss: 146.782883	ReLoss: 146.782883	KLDLoss: 22.648453
+===> Epoch: 19 Average loss: 151.3182, Kld loss: 26.5817, Recon loss: 151.3182
+===> Test loss: 151.5263, Kld loss: 25.8224, Recon loss: 151.5263
+Train Epoch: 20 [0/60000 (0%)]	Loss: 155.553787	ReLoss: 155.553787	KLDLoss: 29.477196
+Train Epoch: 20 [19200/60000 (32%)]	Loss: 163.867920	ReLoss: 163.867920	KLDLoss: 26.919523
+Train Epoch: 20 [38400/60000 (64%)]	Loss: 152.940720	ReLoss: 152.940720	KLDLoss: 31.698761
+Train Epoch: 20 [57600/60000 (96%)]	Loss: 154.121780	ReLoss: 154.121780	KLDLoss: 19.113316
+===> Epoch: 20 Average loss: 152.2980, Kld loss: 26.3639, Recon loss: 152.2980
+===> Test loss: 151.4286, Kld loss: 24.5359, Recon loss: 151.4286
+Train Epoch: 21 [0/60000 (0%)]	Loss: 145.020477	ReLoss: 145.020477	KLDLoss: 24.811817
+Train Epoch: 21 [19200/60000 (32%)]	Loss: 149.969940	ReLoss: 149.969940	KLDLoss: 25.908344
+Train Epoch: 21 [38400/60000 (64%)]	Loss: 153.668671	ReLoss: 153.668671	KLDLoss: 18.498573
+Train Epoch: 21 [57600/60000 (96%)]	Loss: 140.060120	ReLoss: 140.060120	KLDLoss: 29.763550
+===> Epoch: 21 Average loss: 151.0395, Kld loss: 26.7232, Recon loss: 151.0395
+===> Test loss: 150.8637, Kld loss: 26.0242, Recon loss: 150.8637
+Train Epoch: 22 [0/60000 (0%)]	Loss: 154.196167	ReLoss: 154.196167	KLDLoss: 24.194902
+Train Epoch: 22 [19200/60000 (32%)]	Loss: 156.488312	ReLoss: 156.488312	KLDLoss: 24.551823
+Train Epoch: 22 [38400/60000 (64%)]	Loss: 155.233887	ReLoss: 155.233887	KLDLoss: 24.510405
+Train Epoch: 22 [57600/60000 (96%)]	Loss: 147.378433	ReLoss: 147.378433	KLDLoss: 29.694723
+===> Epoch: 22 Average loss: 150.7362, Kld loss: 26.7512, Recon loss: 150.7362
+===> Test loss: 151.2863, Kld loss: 26.5517, Recon loss: 151.2863
+Train Epoch: 23 [0/60000 (0%)]	Loss: 168.524460	ReLoss: 168.524460	KLDLoss: 29.804424
+Train Epoch: 23 [19200/60000 (32%)]	Loss: 145.947647	ReLoss: 145.947647	KLDLoss: 29.425804
+Train Epoch: 23 [38400/60000 (64%)]	Loss: 151.949097	ReLoss: 151.949097	KLDLoss: 40.766289
+Train Epoch: 23 [57600/60000 (96%)]	Loss: 144.118927	ReLoss: 144.118927	KLDLoss: 28.474737
+===> Epoch: 23 Average loss: 150.5061, Kld loss: 27.4420, Recon loss: 150.5061
+===> Test loss: 150.8061, Kld loss: 29.5012, Recon loss: 150.8061
+Train Epoch: 24 [0/60000 (0%)]	Loss: 144.828552	ReLoss: 144.828552	KLDLoss: 35.479439
+Train Epoch: 24 [19200/60000 (32%)]	Loss: 149.347076	ReLoss: 149.347076	KLDLoss: 38.306381
+Train Epoch: 24 [38400/60000 (64%)]	Loss: 152.653046	ReLoss: 152.653046	KLDLoss: 41.404274
+Train Epoch: 24 [57600/60000 (96%)]	Loss: 146.300247	ReLoss: 146.300247	KLDLoss: 22.082169
+===> Epoch: 24 Average loss: 150.9438, Kld loss: 30.3153, Recon loss: 150.9438
+===> Test loss: 150.2679, Kld loss: 28.6203, Recon loss: 150.2679
+Train Epoch: 25 [0/60000 (0%)]	Loss: 146.960175	ReLoss: 146.960175	KLDLoss: 18.602722
+Train Epoch: 25 [19200/60000 (32%)]	Loss: 140.932587	ReLoss: 140.932587	KLDLoss: 36.027752
+Train Epoch: 25 [38400/60000 (64%)]	Loss: 133.887085	ReLoss: 133.887085	KLDLoss: 36.449856
+Train Epoch: 25 [57600/60000 (96%)]	Loss: 137.778244	ReLoss: 137.778244	KLDLoss: 33.834846
+===> Epoch: 25 Average loss: 150.0538, Kld loss: 29.9552, Recon loss: 150.0538
+===> Test loss: 150.4060, Kld loss: 29.5461, Recon loss: 150.4060
+Train Epoch: 26 [0/60000 (0%)]	Loss: 147.859283	ReLoss: 147.859283	KLDLoss: 28.761406
+Train Epoch: 26 [19200/60000 (32%)]	Loss: 160.991531	ReLoss: 160.991531	KLDLoss: 32.174099
+Train Epoch: 26 [38400/60000 (64%)]	Loss: 153.644226	ReLoss: 153.644226	KLDLoss: 21.336357
+Train Epoch: 26 [57600/60000 (96%)]	Loss: 143.589630	ReLoss: 143.589630	KLDLoss: 51.522293
+===> Epoch: 26 Average loss: 150.2482, Kld loss: 29.8744, Recon loss: 150.2482
+===> Test loss: 151.2909, Kld loss: 30.6851, Recon loss: 151.2909
+Train Epoch: 27 [0/60000 (0%)]	Loss: 153.294327	ReLoss: 153.294327	KLDLoss: 30.652166
+Train Epoch: 27 [19200/60000 (32%)]	Loss: 140.414459	ReLoss: 140.414459	KLDLoss: 37.825630
+Train Epoch: 27 [38400/60000 (64%)]	Loss: 143.438171	ReLoss: 143.438171	KLDLoss: 21.246246
+Train Epoch: 27 [57600/60000 (96%)]	Loss: 154.228058	ReLoss: 154.228058	KLDLoss: 30.241058
+===> Epoch: 27 Average loss: 150.0509, Kld loss: 28.5877, Recon loss: 150.0509
+===> Test loss: 149.9236, Kld loss: 25.9378, Recon loss: 149.9236
+Train Epoch: 28 [0/60000 (0%)]	Loss: 149.877869	ReLoss: 149.877869	KLDLoss: 24.502514
+Train Epoch: 28 [19200/60000 (32%)]	Loss: 145.870010	ReLoss: 145.870010	KLDLoss: 23.179605
+Train Epoch: 28 [38400/60000 (64%)]	Loss: 157.411713	ReLoss: 157.411713	KLDLoss: 22.558165
+Train Epoch: 28 [57600/60000 (96%)]	Loss: 143.826416	ReLoss: 143.826416	KLDLoss: 43.510674
+===> Epoch: 28 Average loss: 150.4438, Kld loss: 28.8102, Recon loss: 150.4438
+===> Test loss: 150.1117, Kld loss: 31.5473, Recon loss: 150.1117
+Train Epoch: 29 [0/60000 (0%)]	Loss: 137.075134	ReLoss: 137.075134	KLDLoss: 29.838564
+Train Epoch: 29 [19200/60000 (32%)]	Loss: 146.026215	ReLoss: 146.026215	KLDLoss: 26.916080
+Train Epoch: 29 [38400/60000 (64%)]	Loss: 155.806793	ReLoss: 155.806793	KLDLoss: 28.227318
+Train Epoch: 29 [57600/60000 (96%)]	Loss: 153.995102	ReLoss: 153.995102	KLDLoss: 35.658562
+===> Epoch: 29 Average loss: 150.0668, Kld loss: 31.3254, Recon loss: 150.0668
+===> Test loss: 151.3294, Kld loss: 31.6126, Recon loss: 151.3294
+Train Epoch: 30 [0/60000 (0%)]	Loss: 143.395126	ReLoss: 143.395126	KLDLoss: 28.965893
+Train Epoch: 30 [19200/60000 (32%)]	Loss: 146.308563	ReLoss: 146.308563	KLDLoss: 40.001614
+Train Epoch: 30 [38400/60000 (64%)]	Loss: 144.334778	ReLoss: 144.334778	KLDLoss: 43.644348
+Train Epoch: 30 [57600/60000 (96%)]	Loss: 156.047760	ReLoss: 156.047760	KLDLoss: 24.150658
+===> Epoch: 30 Average loss: 149.5981, Kld loss: 30.6431, Recon loss: 149.5981
+===> Test loss: 151.0067, Kld loss: 28.5230, Recon loss: 151.0067
+Train Epoch: 31 [0/60000 (0%)]	Loss: 153.397324	ReLoss: 153.397324	KLDLoss: 33.388897
+Train Epoch: 31 [19200/60000 (32%)]	Loss: 155.810379	ReLoss: 155.810379	KLDLoss: 25.756645
+Train Epoch: 31 [38400/60000 (64%)]	Loss: 156.675415	ReLoss: 156.675415	KLDLoss: 32.195702
+Train Epoch: 31 [57600/60000 (96%)]	Loss: 148.018448	ReLoss: 148.018448	KLDLoss: 21.085438
+===> Epoch: 31 Average loss: 149.7779, Kld loss: 30.2353, Recon loss: 149.7779
+===> Test loss: 149.5270, Kld loss: 32.5549, Recon loss: 149.5270
+Train Epoch: 32 [0/60000 (0%)]	Loss: 156.673950	ReLoss: 156.673950	KLDLoss: 29.618881
+Train Epoch: 32 [19200/60000 (32%)]	Loss: 150.903961	ReLoss: 150.903961	KLDLoss: 28.730850
+Train Epoch: 32 [38400/60000 (64%)]	Loss: 145.080109	ReLoss: 145.080109	KLDLoss: 31.318163
+Train Epoch: 32 [57600/60000 (96%)]	Loss: 151.722794	ReLoss: 151.722794	KLDLoss: 19.254709
+===> Epoch: 32 Average loss: 149.7887, Kld loss: 32.0331, Recon loss: 149.7887
+===> Test loss: 150.7570, Kld loss: 31.1447, Recon loss: 150.7570
+Train Epoch: 33 [0/60000 (0%)]	Loss: 145.186371	ReLoss: 145.186371	KLDLoss: 29.652018
+Train Epoch: 33 [19200/60000 (32%)]	Loss: 155.775513	ReLoss: 155.775513	KLDLoss: 28.321301
+Train Epoch: 33 [38400/60000 (64%)]	Loss: 146.751328	ReLoss: 146.751328	KLDLoss: 55.306019
+Train Epoch: 33 [57600/60000 (96%)]	Loss: 163.169434	ReLoss: 163.169434	KLDLoss: 27.312765
+===> Epoch: 33 Average loss: 151.7023, Kld loss: 32.7840, Recon loss: 151.7023
+===> Test loss: 151.4381, Kld loss: 33.6932, Recon loss: 151.4381
+Train Epoch: 34 [0/60000 (0%)]	Loss: 147.705780	ReLoss: 147.705780	KLDLoss: 38.728027
+Train Epoch: 34 [19200/60000 (32%)]	Loss: 152.905548	ReLoss: 152.905548	KLDLoss: 53.518658
+Train Epoch: 34 [38400/60000 (64%)]	Loss: 147.912018	ReLoss: 147.912018	KLDLoss: 32.552452
+Train Epoch: 34 [57600/60000 (96%)]	Loss: 151.275558	ReLoss: 151.275558	KLDLoss: 38.142517
+===> Epoch: 34 Average loss: 150.9067, Kld loss: 33.0844, Recon loss: 150.9067
+===> Test loss: 150.5305, Kld loss: 35.0418, Recon loss: 150.5305
+Train Epoch: 35 [0/60000 (0%)]	Loss: 148.713928	ReLoss: 148.713928	KLDLoss: 32.784958
+Train Epoch: 35 [19200/60000 (32%)]	Loss: 153.450012	ReLoss: 153.450012	KLDLoss: 30.960291
+Train Epoch: 35 [38400/60000 (64%)]	Loss: 154.560486	ReLoss: 154.560486	KLDLoss: 34.413399
+Train Epoch: 35 [57600/60000 (96%)]	Loss: 151.616699	ReLoss: 151.616699	KLDLoss: 41.467255
+===> Epoch: 35 Average loss: 150.5842, Kld loss: 39.7248, Recon loss: 150.5842
+===> Test loss: 150.8735, Kld loss: 42.4156, Recon loss: 150.8735
+Train Epoch: 36 [0/60000 (0%)]	Loss: 153.729568	ReLoss: 153.729568	KLDLoss: 53.337589
+Train Epoch: 36 [19200/60000 (32%)]	Loss: 151.684753	ReLoss: 151.684753	KLDLoss: 39.385227
+Train Epoch: 36 [38400/60000 (64%)]	Loss: 157.691345	ReLoss: 157.691345	KLDLoss: 46.231194
+Train Epoch: 36 [57600/60000 (96%)]	Loss: 143.392685	ReLoss: 143.392685	KLDLoss: 33.366020
+===> Epoch: 36 Average loss: 150.2838, Kld loss: 40.7899, Recon loss: 150.2838
+===> Test loss: 150.5143, Kld loss: 42.1502, Recon loss: 150.5143
+Train Epoch: 37 [0/60000 (0%)]	Loss: 150.279800	ReLoss: 150.279800	KLDLoss: 49.214478
+Train Epoch: 37 [19200/60000 (32%)]	Loss: 150.070557	ReLoss: 150.070557	KLDLoss: 38.803261
+Train Epoch: 37 [38400/60000 (64%)]	Loss: 157.308105	ReLoss: 157.308105	KLDLoss: 25.130356
+Train Epoch: 37 [57600/60000 (96%)]	Loss: 152.101929	ReLoss: 152.101929	KLDLoss: 60.319126
+===> Epoch: 37 Average loss: 150.2045, Kld loss: 38.2126, Recon loss: 150.2045
+===> Test loss: 150.6154, Kld loss: 35.9547, Recon loss: 150.6154
+Train Epoch: 38 [0/60000 (0%)]	Loss: 144.394287	ReLoss: 144.394287	KLDLoss: 24.279892
+Train Epoch: 38 [19200/60000 (32%)]	Loss: 144.366333	ReLoss: 144.366333	KLDLoss: 32.350082
+Train Epoch: 38 [38400/60000 (64%)]	Loss: 156.057953	ReLoss: 156.057953	KLDLoss: 24.819584
+Train Epoch: 38 [57600/60000 (96%)]	Loss: 151.298981	ReLoss: 151.298981	KLDLoss: 63.592388
+===> Epoch: 38 Average loss: 150.0531, Kld loss: 39.4745, Recon loss: 150.0531
+===> Test loss: 149.4654, Kld loss: 41.0679, Recon loss: 149.4654
+Train Epoch: 39 [0/60000 (0%)]	Loss: 156.516068	ReLoss: 156.516068	KLDLoss: 47.180611
+Train Epoch: 39 [19200/60000 (32%)]	Loss: 152.594604	ReLoss: 152.594604	KLDLoss: 36.418018
+Train Epoch: 39 [38400/60000 (64%)]	Loss: 149.243378	ReLoss: 149.243378	KLDLoss: 24.561405
+Train Epoch: 39 [57600/60000 (96%)]	Loss: 157.556534	ReLoss: 157.556534	KLDLoss: 44.661854
+===> Epoch: 39 Average loss: 149.7470, Kld loss: 38.0789, Recon loss: 149.7470
+===> Test loss: 152.0746, Kld loss: 39.7166, Recon loss: 152.0746
+Train Epoch: 40 [0/60000 (0%)]	Loss: 149.986847	ReLoss: 149.986847	KLDLoss: 61.469543
+Train Epoch: 40 [19200/60000 (32%)]	Loss: 151.629211	ReLoss: 151.629211	KLDLoss: 30.637417
+Train Epoch: 40 [38400/60000 (64%)]	Loss: 157.517075	ReLoss: 157.517075	KLDLoss: 42.208908
+Train Epoch: 40 [57600/60000 (96%)]	Loss: 146.386963	ReLoss: 146.386963	KLDLoss: 37.548622
+===> Epoch: 40 Average loss: 150.5403, Kld loss: 40.4703, Recon loss: 150.5403
+===> Test loss: 150.2692, Kld loss: 38.7911, Recon loss: 150.2692
+Train Epoch: 41 [0/60000 (0%)]	Loss: 158.817291	ReLoss: 158.817291	KLDLoss: 20.386122
+Train Epoch: 41 [19200/60000 (32%)]	Loss: 136.018402	ReLoss: 136.018402	KLDLoss: 27.493046
+Train Epoch: 41 [38400/60000 (64%)]	Loss: 143.984192	ReLoss: 143.984192	KLDLoss: 35.988419
+Train Epoch: 41 [57600/60000 (96%)]	Loss: 143.672485	ReLoss: 143.672485	KLDLoss: 21.738567
+===> Epoch: 41 Average loss: 149.3309, Kld loss: 40.8122, Recon loss: 149.3309
+===> Test loss: 149.5247, Kld loss: 39.1936, Recon loss: 149.5247
+Train Epoch: 42 [0/60000 (0%)]	Loss: 145.459503	ReLoss: 145.459503	KLDLoss: 33.765587
+Train Epoch: 42 [19200/60000 (32%)]	Loss: 146.336670	ReLoss: 146.336670	KLDLoss: 36.084717
+Train Epoch: 42 [38400/60000 (64%)]	Loss: 148.890839	ReLoss: 148.890839	KLDLoss: 38.657749
+Train Epoch: 42 [57600/60000 (96%)]	Loss: 145.847839	ReLoss: 145.847839	KLDLoss: 35.934532
+===> Epoch: 42 Average loss: 149.3580, Kld loss: 38.0885, Recon loss: 149.3580
+===> Test loss: 151.5594, Kld loss: 37.2941, Recon loss: 151.5594
+Train Epoch: 43 [0/60000 (0%)]	Loss: 142.602051	ReLoss: 142.602051	KLDLoss: 26.802570
+Train Epoch: 43 [19200/60000 (32%)]	Loss: 150.283600	ReLoss: 150.283600	KLDLoss: 52.446999
+Train Epoch: 43 [38400/60000 (64%)]	Loss: 147.053070	ReLoss: 147.053070	KLDLoss: 24.668036
+Train Epoch: 43 [57600/60000 (96%)]	Loss: 163.298462	ReLoss: 163.298462	KLDLoss: 31.053848
+===> Epoch: 43 Average loss: 151.5512, Kld loss: 33.3835, Recon loss: 151.5512
+===> Test loss: 152.1542, Kld loss: 28.4000, Recon loss: 152.1542
+Train Epoch: 44 [0/60000 (0%)]	Loss: 156.249298	ReLoss: 156.249298	KLDLoss: 34.626045
+Train Epoch: 44 [19200/60000 (32%)]	Loss: 151.272827	ReLoss: 151.272827	KLDLoss: 37.143929
+Train Epoch: 44 [38400/60000 (64%)]	Loss: 150.084869	ReLoss: 150.084869	KLDLoss: 30.616539
+Train Epoch: 44 [57600/60000 (96%)]	Loss: 134.731110	ReLoss: 134.731110	KLDLoss: 34.375900
+===> Epoch: 44 Average loss: 150.7525, Kld loss: 30.9690, Recon loss: 150.7525
+===> Test loss: 149.7968, Kld loss: 30.3832, Recon loss: 149.7968
+Train Epoch: 45 [0/60000 (0%)]	Loss: 155.230957	ReLoss: 155.230957	KLDLoss: 23.448799
+Train Epoch: 45 [19200/60000 (32%)]	Loss: 158.916519	ReLoss: 158.916519	KLDLoss: 22.307440
+Train Epoch: 45 [38400/60000 (64%)]	Loss: 157.398224	ReLoss: 157.398224	KLDLoss: 39.030449
+Train Epoch: 45 [57600/60000 (96%)]	Loss: 155.004181	ReLoss: 155.004181	KLDLoss: 43.734810
+===> Epoch: 45 Average loss: 149.8436, Kld loss: 32.8224, Recon loss: 149.8436
+===> Test loss: 149.5375, Kld loss: 33.6963, Recon loss: 149.5375
+Train Epoch: 46 [0/60000 (0%)]	Loss: 149.330170	ReLoss: 149.330170	KLDLoss: 40.335800
+Train Epoch: 46 [19200/60000 (32%)]	Loss: 155.041870	ReLoss: 155.041870	KLDLoss: 52.283695
+Train Epoch: 46 [38400/60000 (64%)]	Loss: 147.050964	ReLoss: 147.050964	KLDLoss: 24.852123
+Train Epoch: 46 [57600/60000 (96%)]	Loss: 158.378677	ReLoss: 158.378677	KLDLoss: 24.305592
+===> Epoch: 46 Average loss: 149.2861, Kld loss: 37.0437, Recon loss: 149.2861
+===> Test loss: 148.6248, Kld loss: 35.3515, Recon loss: 148.6248
+Train Epoch: 47 [0/60000 (0%)]	Loss: 150.493729	ReLoss: 150.493729	KLDLoss: 23.313362
+Train Epoch: 47 [19200/60000 (32%)]	Loss: 150.778900	ReLoss: 150.778900	KLDLoss: 40.386417
+Train Epoch: 47 [38400/60000 (64%)]	Loss: 145.185333	ReLoss: 145.185333	KLDLoss: 43.050884
+Train Epoch: 47 [57600/60000 (96%)]	Loss: 149.563416	ReLoss: 149.563416	KLDLoss: 35.043644
+===> Epoch: 47 Average loss: 150.0631, Kld loss: 36.6702, Recon loss: 150.0631
+===> Test loss: 149.9595, Kld loss: 37.2407, Recon loss: 149.9595
+Train Epoch: 48 [0/60000 (0%)]	Loss: 141.025513	ReLoss: 141.025513	KLDLoss: 79.207497
+Train Epoch: 48 [19200/60000 (32%)]	Loss: 161.107208	ReLoss: 161.107208	KLDLoss: 48.333878
+Train Epoch: 48 [38400/60000 (64%)]	Loss: 149.588043	ReLoss: 149.588043	KLDLoss: 27.290571
+Train Epoch: 48 [57600/60000 (96%)]	Loss: 159.401276	ReLoss: 159.401276	KLDLoss: 25.666439
+===> Epoch: 48 Average loss: 151.9673, Kld loss: 34.4351, Recon loss: 151.9673
+===> Test loss: 152.9757, Kld loss: 32.5319, Recon loss: 152.9757
+Train Epoch: 49 [0/60000 (0%)]	Loss: 165.682983	ReLoss: 165.682983	KLDLoss: 28.125444
+Train Epoch: 49 [19200/60000 (32%)]	Loss: 152.159393	ReLoss: 152.159393	KLDLoss: 45.158623
+Train Epoch: 49 [38400/60000 (64%)]	Loss: 152.702362	ReLoss: 152.702362	KLDLoss: 24.516352
+Train Epoch: 49 [57600/60000 (96%)]	Loss: 153.481598	ReLoss: 153.481598	KLDLoss: 21.146065
+===> Epoch: 49 Average loss: 150.7852, Kld loss: 34.1886, Recon loss: 150.7852
+===> Test loss: 149.8282, Kld loss: 32.9579, Recon loss: 149.8282
+Train Epoch: 50 [0/60000 (0%)]	Loss: 145.126282	ReLoss: 145.126282	KLDLoss: 41.350567
+Train Epoch: 50 [19200/60000 (32%)]	Loss: 144.597473	ReLoss: 144.597473	KLDLoss: 41.733318
+Train Epoch: 50 [38400/60000 (64%)]	Loss: 158.451828	ReLoss: 158.451828	KLDLoss: 29.058987
+Train Epoch: 50 [57600/60000 (96%)]	Loss: 155.249542	ReLoss: 155.249542	KLDLoss: 32.312325
+===> Epoch: 50 Average loss: 150.0665, Kld loss: 35.8706, Recon loss: 150.0665
+===> Test loss: 151.1276, Kld loss: 42.0634, Recon loss: 151.1276
+Train Epoch: 51 [0/60000 (0%)]	Loss: 149.588058	ReLoss: 149.588058	KLDLoss: 34.771912
+Train Epoch: 51 [19200/60000 (32%)]	Loss: 156.598434	ReLoss: 156.598434	KLDLoss: 37.652260
+Train Epoch: 51 [38400/60000 (64%)]	Loss: 160.313904	ReLoss: 160.313904	KLDLoss: 32.096294
+Train Epoch: 51 [57600/60000 (96%)]	Loss: 143.744904	ReLoss: 143.744904	KLDLoss: 35.841667
+===> Epoch: 51 Average loss: 150.5449, Kld loss: 40.7621, Recon loss: 150.5449
+===> Test loss: 149.8485, Kld loss: 39.0493, Recon loss: 149.8485
+Train Epoch: 52 [0/60000 (0%)]	Loss: 156.521332	ReLoss: 156.521332	KLDLoss: 30.753002
+Train Epoch: 52 [19200/60000 (32%)]	Loss: 143.890518	ReLoss: 143.890518	KLDLoss: 31.558228
+Train Epoch: 52 [38400/60000 (64%)]	Loss: 153.055237	ReLoss: 153.055237	KLDLoss: 63.587269
+Train Epoch: 52 [57600/60000 (96%)]	Loss: 147.870270	ReLoss: 147.870270	KLDLoss: 27.919014
+===> Epoch: 52 Average loss: 149.4471, Kld loss: 39.9440, Recon loss: 149.4471
+===> Test loss: 148.7442, Kld loss: 38.8899, Recon loss: 148.7442
+Train Epoch: 53 [0/60000 (0%)]	Loss: 158.377792	ReLoss: 158.377792	KLDLoss: 48.321545
+Train Epoch: 53 [19200/60000 (32%)]	Loss: 149.215988	ReLoss: 149.215988	KLDLoss: 34.374966
+Train Epoch: 53 [38400/60000 (64%)]	Loss: 140.324463	ReLoss: 140.324463	KLDLoss: 33.391380
+Train Epoch: 53 [57600/60000 (96%)]	Loss: 150.387482	ReLoss: 150.387482	KLDLoss: 24.332981
+===> Epoch: 53 Average loss: 148.7099, Kld loss: 39.7878, Recon loss: 148.7099
+===> Test loss: 149.1924, Kld loss: 37.8485, Recon loss: 149.1924
+Train Epoch: 54 [0/60000 (0%)]	Loss: 143.963242	ReLoss: 143.963242	KLDLoss: 37.054569
+Train Epoch: 54 [19200/60000 (32%)]	Loss: 147.652039	ReLoss: 147.652039	KLDLoss: 27.214664
+Train Epoch: 54 [38400/60000 (64%)]	Loss: 147.377579	ReLoss: 147.377579	KLDLoss: 42.826157
+Train Epoch: 54 [57600/60000 (96%)]	Loss: 154.995911	ReLoss: 154.995911	KLDLoss: 48.214417
+===> Epoch: 54 Average loss: 148.4370, Kld loss: 40.3564, Recon loss: 148.4370
+===> Test loss: 149.5357, Kld loss: 37.0770, Recon loss: 149.5357
+Train Epoch: 55 [0/60000 (0%)]	Loss: 140.451477	ReLoss: 140.451477	KLDLoss: 35.626644
+Train Epoch: 55 [19200/60000 (32%)]	Loss: 159.676147	ReLoss: 159.676147	KLDLoss: 53.404522
+Train Epoch: 55 [38400/60000 (64%)]	Loss: 152.989075	ReLoss: 152.989075	KLDLoss: 28.681044
+Train Epoch: 55 [57600/60000 (96%)]	Loss: 147.795166	ReLoss: 147.795166	KLDLoss: 25.449280
+===> Epoch: 55 Average loss: 149.6192, Kld loss: 38.5862, Recon loss: 149.6192
+===> Test loss: 149.7355, Kld loss: 39.6170, Recon loss: 149.7355
+Train Epoch: 56 [0/60000 (0%)]	Loss: 144.085678	ReLoss: 144.085678	KLDLoss: 40.286316
+Train Epoch: 56 [19200/60000 (32%)]	Loss: 150.201813	ReLoss: 150.201813	KLDLoss: 49.549347
+Train Epoch: 56 [38400/60000 (64%)]	Loss: 155.570618	ReLoss: 155.570618	KLDLoss: 42.799698
+Train Epoch: 56 [57600/60000 (96%)]	Loss: 160.678894	ReLoss: 160.678894	KLDLoss: 54.495064
+===> Epoch: 56 Average loss: 148.6290, Kld loss: 42.9689, Recon loss: 148.6290
+===> Test loss: 148.3574, Kld loss: 39.5042, Recon loss: 148.3574
+Train Epoch: 57 [0/60000 (0%)]	Loss: 151.307281	ReLoss: 151.307281	KLDLoss: 27.172165
+Train Epoch: 57 [19200/60000 (32%)]	Loss: 140.790710	ReLoss: 140.790710	KLDLoss: 56.833755
+Train Epoch: 57 [38400/60000 (64%)]	Loss: 149.458282	ReLoss: 149.458282	KLDLoss: 38.489281
+Train Epoch: 57 [57600/60000 (96%)]	Loss: 154.569214	ReLoss: 154.569214	KLDLoss: 50.726784
+===> Epoch: 57 Average loss: 149.1047, Kld loss: 44.0443, Recon loss: 149.1047
+===> Test loss: 149.5978, Kld loss: 38.9731, Recon loss: 149.5978
+Train Epoch: 58 [0/60000 (0%)]	Loss: 156.840546	ReLoss: 156.840546	KLDLoss: 45.511299
+Train Epoch: 58 [19200/60000 (32%)]	Loss: 141.403915	ReLoss: 141.403915	KLDLoss: 27.979568
+Train Epoch: 58 [38400/60000 (64%)]	Loss: 152.116638	ReLoss: 152.116638	KLDLoss: 25.687382
+Train Epoch: 58 [57600/60000 (96%)]	Loss: 135.946503	ReLoss: 135.946503	KLDLoss: 28.374989
+===> Epoch: 58 Average loss: 149.6670, Kld loss: 43.9537, Recon loss: 149.6670
+===> Test loss: 150.1205, Kld loss: 43.8302, Recon loss: 150.1205
+Train Epoch: 59 [0/60000 (0%)]	Loss: 155.580780	ReLoss: 155.580780	KLDLoss: 39.039894
+Train Epoch: 59 [19200/60000 (32%)]	Loss: 140.255524	ReLoss: 140.255524	KLDLoss: 56.346340
+Train Epoch: 59 [38400/60000 (64%)]	Loss: 156.694183	ReLoss: 156.694183	KLDLoss: 24.842028
+Train Epoch: 59 [57600/60000 (96%)]	Loss: 149.155823	ReLoss: 149.155823	KLDLoss: 90.531525
+===> Epoch: 59 Average loss: 149.2156, Kld loss: 44.7741, Recon loss: 149.2156
+===> Test loss: 149.3507, Kld loss: 43.8436, Recon loss: 149.3507
+Train Epoch: 60 [0/60000 (0%)]	Loss: 143.626129	ReLoss: 143.626129	KLDLoss: 43.829937
+Train Epoch: 60 [19200/60000 (32%)]	Loss: 150.100067	ReLoss: 150.100067	KLDLoss: 33.140594
+Train Epoch: 60 [38400/60000 (64%)]	Loss: 152.698486	ReLoss: 152.698486	KLDLoss: 43.422379
+Train Epoch: 60 [57600/60000 (96%)]	Loss: 152.207611	ReLoss: 152.207611	KLDLoss: 37.747086
+===> Epoch: 60 Average loss: 148.5076, Kld loss: 48.2276, Recon loss: 148.5076
+===> Test loss: 148.6651, Kld loss: 41.5733, Recon loss: 148.6651
+Train Epoch: 61 [0/60000 (0%)]	Loss: 146.923203	ReLoss: 146.923203	KLDLoss: 26.556284
+Train Epoch: 61 [19200/60000 (32%)]	Loss: 155.375061	ReLoss: 155.375061	KLDLoss: 45.253822
+Train Epoch: 61 [38400/60000 (64%)]	Loss: 138.744171	ReLoss: 138.744171	KLDLoss: 48.365829
+Train Epoch: 61 [57600/60000 (96%)]	Loss: 142.826431	ReLoss: 142.826431	KLDLoss: 106.563293
+===> Epoch: 61 Average loss: 150.0727, Kld loss: 43.5495, Recon loss: 150.0727
+===> Test loss: 149.8597, Kld loss: 42.5619, Recon loss: 149.8597
+Train Epoch: 62 [0/60000 (0%)]	Loss: 151.447525	ReLoss: 151.447525	KLDLoss: 66.405731
+Train Epoch: 62 [19200/60000 (32%)]	Loss: 146.582932	ReLoss: 146.582932	KLDLoss: 74.374908
+Train Epoch: 62 [38400/60000 (64%)]	Loss: 147.002731	ReLoss: 147.002731	KLDLoss: 74.389954
+Train Epoch: 62 [57600/60000 (96%)]	Loss: 141.948227	ReLoss: 141.948227	KLDLoss: 40.624954
+===> Epoch: 62 Average loss: 149.5915, Kld loss: 46.6405, Recon loss: 149.5915
+===> Test loss: 150.4651, Kld loss: 43.0796, Recon loss: 150.4651
+Train Epoch: 63 [0/60000 (0%)]	Loss: 151.822845	ReLoss: 151.822845	KLDLoss: 44.805290
+Train Epoch: 63 [19200/60000 (32%)]	Loss: 150.543533	ReLoss: 150.543533	KLDLoss: 56.198181
+Train Epoch: 63 [38400/60000 (64%)]	Loss: 158.479385	ReLoss: 158.479385	KLDLoss: 64.183670
+Train Epoch: 63 [57600/60000 (96%)]	Loss: 150.915253	ReLoss: 150.915253	KLDLoss: 36.812668
+===> Epoch: 63 Average loss: 148.9725, Kld loss: 48.4043, Recon loss: 148.9725
+===> Test loss: 148.1624, Kld loss: 47.8113, Recon loss: 148.1624
+Train Epoch: 64 [0/60000 (0%)]	Loss: 145.723297	ReLoss: 145.723297	KLDLoss: 52.689598
+Train Epoch: 64 [19200/60000 (32%)]	Loss: 145.172943	ReLoss: 145.172943	KLDLoss: 47.763260
+Train Epoch: 64 [38400/60000 (64%)]	Loss: 144.028595	ReLoss: 144.028595	KLDLoss: 24.067444
+Train Epoch: 64 [57600/60000 (96%)]	Loss: 148.500977	ReLoss: 148.500977	KLDLoss: 30.760056
+===> Epoch: 64 Average loss: 148.3043, Kld loss: 47.3674, Recon loss: 148.3043
+===> Test loss: 148.5996, Kld loss: 46.0627, Recon loss: 148.5996
+Train Epoch: 65 [0/60000 (0%)]	Loss: 137.831268	ReLoss: 137.831268	KLDLoss: 49.314423
+Train Epoch: 65 [19200/60000 (32%)]	Loss: 143.351837	ReLoss: 143.351837	KLDLoss: 70.751892
+Train Epoch: 65 [38400/60000 (64%)]	Loss: 148.211609	ReLoss: 148.211609	KLDLoss: 43.308220
+Train Epoch: 65 [57600/60000 (96%)]	Loss: 141.068115	ReLoss: 141.068115	KLDLoss: 42.518867
+===> Epoch: 65 Average loss: 148.3643, Kld loss: 44.8428, Recon loss: 148.3643
+===> Test loss: 148.2798, Kld loss: 44.8777, Recon loss: 148.2798
+Train Epoch: 66 [0/60000 (0%)]	Loss: 162.149750	ReLoss: 162.149750	KLDLoss: 92.217194
+Train Epoch: 66 [19200/60000 (32%)]	Loss: 155.240692	ReLoss: 155.240692	KLDLoss: 41.743065
+Train Epoch: 66 [38400/60000 (64%)]	Loss: 144.992401	ReLoss: 144.992401	KLDLoss: 107.270035
+Train Epoch: 66 [57600/60000 (96%)]	Loss: 138.855820	ReLoss: 138.855820	KLDLoss: 53.977982
+===> Epoch: 66 Average loss: 148.4829, Kld loss: 45.3926, Recon loss: 148.4829
+===> Test loss: 149.5739, Kld loss: 41.2270, Recon loss: 149.5739
+Train Epoch: 67 [0/60000 (0%)]	Loss: 145.467270	ReLoss: 145.467270	KLDLoss: 29.489687
+Train Epoch: 67 [19200/60000 (32%)]	Loss: 151.094513	ReLoss: 151.094513	KLDLoss: 78.124390
+Train Epoch: 67 [38400/60000 (64%)]	Loss: 146.382050	ReLoss: 146.382050	KLDLoss: 120.035545
+Train Epoch: 67 [57600/60000 (96%)]	Loss: 151.356232	ReLoss: 151.356232	KLDLoss: 27.865074
+===> Epoch: 67 Average loss: 148.4148, Kld loss: 50.4166, Recon loss: 148.4148
+===> Test loss: 147.9399, Kld loss: 49.1310, Recon loss: 147.9399
+Train Epoch: 68 [0/60000 (0%)]	Loss: 138.504623	ReLoss: 138.504623	KLDLoss: 42.611931
+Train Epoch: 68 [19200/60000 (32%)]	Loss: 140.583008	ReLoss: 140.583008	KLDLoss: 70.509262
+Train Epoch: 68 [38400/60000 (64%)]	Loss: 153.897964	ReLoss: 153.897964	KLDLoss: 46.126881
+Train Epoch: 68 [57600/60000 (96%)]	Loss: 158.530655	ReLoss: 158.530655	KLDLoss: 54.845642
+===> Epoch: 68 Average loss: 147.7380, Kld loss: 53.3122, Recon loss: 147.7380
+===> Test loss: 147.8016, Kld loss: 53.9609, Recon loss: 147.8016
+Train Epoch: 69 [0/60000 (0%)]	Loss: 153.381226	ReLoss: 153.381226	KLDLoss: 87.869850
+Train Epoch: 69 [19200/60000 (32%)]	Loss: 151.684998	ReLoss: 151.684998	KLDLoss: 28.783966
+Train Epoch: 69 [38400/60000 (64%)]	Loss: 144.527023	ReLoss: 144.527023	KLDLoss: 51.466206
+Train Epoch: 69 [57600/60000 (96%)]	Loss: 141.866730	ReLoss: 141.866730	KLDLoss: 31.722597
+===> Epoch: 69 Average loss: 148.2391, Kld loss: 52.3871, Recon loss: 148.2391
+===> Test loss: 147.9710, Kld loss: 45.9362, Recon loss: 147.9710
+Train Epoch: 70 [0/60000 (0%)]	Loss: 151.853302	ReLoss: 151.853302	KLDLoss: 68.322334
+Train Epoch: 70 [19200/60000 (32%)]	Loss: 137.138275	ReLoss: 137.138275	KLDLoss: 74.350250
+Train Epoch: 70 [38400/60000 (64%)]	Loss: 144.201355	ReLoss: 144.201355	KLDLoss: 68.092194
+Train Epoch: 70 [57600/60000 (96%)]	Loss: 141.132141	ReLoss: 141.132141	KLDLoss: 38.582779
+===> Epoch: 70 Average loss: 148.8924, Kld loss: 48.4076, Recon loss: 148.8924
+===> Test loss: 148.3057, Kld loss: 45.5933, Recon loss: 148.3057
+Train Epoch: 71 [0/60000 (0%)]	Loss: 152.951004	ReLoss: 152.951004	KLDLoss: 76.393799
+Train Epoch: 71 [19200/60000 (32%)]	Loss: 142.946533	ReLoss: 142.946533	KLDLoss: 117.760185
+Train Epoch: 71 [38400/60000 (64%)]	Loss: 133.732422	ReLoss: 133.732422	KLDLoss: 34.091709
+Train Epoch: 71 [57600/60000 (96%)]	Loss: 156.542068	ReLoss: 156.542068	KLDLoss: 51.371834
+===> Epoch: 71 Average loss: 149.0473, Kld loss: 44.1642, Recon loss: 149.0473
+===> Test loss: 148.8569, Kld loss: 40.5624, Recon loss: 148.8569
+Train Epoch: 72 [0/60000 (0%)]	Loss: 147.333115	ReLoss: 147.333115	KLDLoss: 47.844009
+Train Epoch: 72 [19200/60000 (32%)]	Loss: 148.866150	ReLoss: 148.866150	KLDLoss: 63.464088
+Train Epoch: 72 [38400/60000 (64%)]	Loss: 144.982498	ReLoss: 144.982498	KLDLoss: 85.429237
+Train Epoch: 72 [57600/60000 (96%)]	Loss: 149.917480	ReLoss: 149.917480	KLDLoss: 39.962082
+===> Epoch: 72 Average loss: 148.6816, Kld loss: 42.9852, Recon loss: 148.6816
+===> Test loss: 151.0551, Kld loss: 35.1798, Recon loss: 151.0551
+Train Epoch: 73 [0/60000 (0%)]	Loss: 140.930695	ReLoss: 140.930695	KLDLoss: 37.745174
+Train Epoch: 73 [19200/60000 (32%)]	Loss: 145.684219	ReLoss: 145.684219	KLDLoss: 28.859196
+Train Epoch: 73 [38400/60000 (64%)]	Loss: 149.202957	ReLoss: 149.202957	KLDLoss: 23.854151
+Train Epoch: 73 [57600/60000 (96%)]	Loss: 154.292236	ReLoss: 154.292236	KLDLoss: 25.793894
+===> Epoch: 73 Average loss: 148.8565, Kld loss: 36.5555, Recon loss: 148.8565
+===> Test loss: 148.6317, Kld loss: 34.3689, Recon loss: 148.6317
+Train Epoch: 74 [0/60000 (0%)]	Loss: 151.593552	ReLoss: 151.593552	KLDLoss: 33.821007
+Train Epoch: 74 [19200/60000 (32%)]	Loss: 155.994049	ReLoss: 155.994049	KLDLoss: 27.333046
+Train Epoch: 74 [38400/60000 (64%)]	Loss: 164.744171	ReLoss: 164.744171	KLDLoss: 42.732094
+Train Epoch: 74 [57600/60000 (96%)]	Loss: 151.494354	ReLoss: 151.494354	KLDLoss: 31.738276
+===> Epoch: 74 Average loss: 152.9541, Kld loss: 39.2426, Recon loss: 152.9541
+===> Test loss: 150.3803, Kld loss: 39.2799, Recon loss: 150.3803
+Train Epoch: 75 [0/60000 (0%)]	Loss: 147.084991	ReLoss: 147.084991	KLDLoss: 35.350410
+Train Epoch: 75 [19200/60000 (32%)]	Loss: 154.890442	ReLoss: 154.890442	KLDLoss: 33.764240
+Train Epoch: 75 [38400/60000 (64%)]	Loss: 152.360229	ReLoss: 152.360229	KLDLoss: 23.704185
+Train Epoch: 75 [57600/60000 (96%)]	Loss: 146.913239	ReLoss: 146.913239	KLDLoss: 30.018375
+===> Epoch: 75 Average loss: 149.2070, Kld loss: 37.2537, Recon loss: 149.2070
+===> Test loss: 150.4247, Kld loss: 35.5684, Recon loss: 150.4247
+Train Epoch: 76 [0/60000 (0%)]	Loss: 149.332703	ReLoss: 149.332703	KLDLoss: 32.089329
+Train Epoch: 76 [19200/60000 (32%)]	Loss: 146.256668	ReLoss: 146.256668	KLDLoss: 45.187717
+Train Epoch: 76 [38400/60000 (64%)]	Loss: 149.057877	ReLoss: 149.057877	KLDLoss: 49.014687
+Train Epoch: 76 [57600/60000 (96%)]	Loss: 138.087997	ReLoss: 138.087997	KLDLoss: 27.521542
+===> Epoch: 76 Average loss: 148.7062, Kld loss: 38.2400, Recon loss: 148.7062
+===> Test loss: 147.8209, Kld loss: 35.8880, Recon loss: 147.8209
+Train Epoch: 77 [0/60000 (0%)]	Loss: 145.451904	ReLoss: 145.451904	KLDLoss: 31.152132
+Train Epoch: 77 [19200/60000 (32%)]	Loss: 146.866882	ReLoss: 146.866882	KLDLoss: 33.955566
+Train Epoch: 77 [38400/60000 (64%)]	Loss: 139.262848	ReLoss: 139.262848	KLDLoss: 31.790436
+Train Epoch: 77 [57600/60000 (96%)]	Loss: 149.862427	ReLoss: 149.862427	KLDLoss: 37.555077
+===> Epoch: 77 Average loss: 147.8914, Kld loss: 40.1879, Recon loss: 147.8914
+===> Test loss: 148.4493, Kld loss: 37.5592, Recon loss: 148.4493
+Train Epoch: 78 [0/60000 (0%)]	Loss: 147.645203	ReLoss: 147.645203	KLDLoss: 27.497219
+Train Epoch: 78 [19200/60000 (32%)]	Loss: 153.383881	ReLoss: 153.383881	KLDLoss: 28.386555
+Train Epoch: 78 [38400/60000 (64%)]	Loss: 150.458694	ReLoss: 150.458694	KLDLoss: 30.706257
+Train Epoch: 78 [57600/60000 (96%)]	Loss: 144.968933	ReLoss: 144.968933	KLDLoss: 34.124088
+===> Epoch: 78 Average loss: 148.1462, Kld loss: 40.7294, Recon loss: 148.1462
+===> Test loss: 149.9681, Kld loss: 44.4544, Recon loss: 149.9681
+Train Epoch: 79 [0/60000 (0%)]	Loss: 153.352936	ReLoss: 153.352936	KLDLoss: 65.248039
+Train Epoch: 79 [19200/60000 (32%)]	Loss: 140.994339	ReLoss: 140.994339	KLDLoss: 124.769043
+Train Epoch: 79 [38400/60000 (64%)]	Loss: 135.080017	ReLoss: 135.080017	KLDLoss: 30.559580
+Train Epoch: 79 [57600/60000 (96%)]	Loss: 150.523590	ReLoss: 150.523590	KLDLoss: 43.627525
+===> Epoch: 79 Average loss: 147.8922, Kld loss: 52.8094, Recon loss: 147.8922
+===> Test loss: 149.0004, Kld loss: 51.2537, Recon loss: 149.0004
+Train Epoch: 80 [0/60000 (0%)]	Loss: 148.203278	ReLoss: 148.203278	KLDLoss: 26.931343
+Train Epoch: 80 [19200/60000 (32%)]	Loss: 130.710388	ReLoss: 130.710388	KLDLoss: 32.724838
+Train Epoch: 80 [38400/60000 (64%)]	Loss: 145.702286	ReLoss: 145.702286	KLDLoss: 57.330441
+Train Epoch: 80 [57600/60000 (96%)]	Loss: 149.475555	ReLoss: 149.475555	KLDLoss: 49.687042
+===> Epoch: 80 Average loss: 147.4926, Kld loss: 56.1162, Recon loss: 147.4926
+===> Test loss: 147.8552, Kld loss: 51.3570, Recon loss: 147.8552
+Train Epoch: 81 [0/60000 (0%)]	Loss: 152.389465	ReLoss: 152.389465	KLDLoss: 34.440475
+Train Epoch: 81 [19200/60000 (32%)]	Loss: 143.481628	ReLoss: 143.481628	KLDLoss: 35.712646
+Train Epoch: 81 [38400/60000 (64%)]	Loss: 134.260590	ReLoss: 134.260590	KLDLoss: 36.630814
+Train Epoch: 81 [57600/60000 (96%)]	Loss: 148.735001	ReLoss: 148.735001	KLDLoss: 77.923500
+===> Epoch: 81 Average loss: 147.2714, Kld loss: 50.8125, Recon loss: 147.2714
+===> Test loss: 147.3130, Kld loss: 49.8662, Recon loss: 147.3130
+Train Epoch: 82 [0/60000 (0%)]	Loss: 153.494507	ReLoss: 153.494507	KLDLoss: 88.760574
+Train Epoch: 82 [19200/60000 (32%)]	Loss: 148.029480	ReLoss: 148.029480	KLDLoss: 53.699928
+Train Epoch: 82 [38400/60000 (64%)]	Loss: 154.414154	ReLoss: 154.414154	KLDLoss: 93.881851
+Train Epoch: 82 [57600/60000 (96%)]	Loss: 151.057144	ReLoss: 151.057144	KLDLoss: 42.718456
+===> Epoch: 82 Average loss: 147.2201, Kld loss: 59.4713, Recon loss: 147.2201
+===> Test loss: 148.5622, Kld loss: 67.3887, Recon loss: 148.5622
+Train Epoch: 83 [0/60000 (0%)]	Loss: 156.969360	ReLoss: 156.969360	KLDLoss: 53.834496
+Train Epoch: 83 [19200/60000 (32%)]	Loss: 151.988586	ReLoss: 151.988586	KLDLoss: 55.114883
+Train Epoch: 83 [38400/60000 (64%)]	Loss: 147.125946	ReLoss: 147.125946	KLDLoss: 75.577843
+Train Epoch: 83 [57600/60000 (96%)]	Loss: 144.967133	ReLoss: 144.967133	KLDLoss: 61.913181
+===> Epoch: 83 Average loss: 147.4653, Kld loss: 57.6308, Recon loss: 147.4653
+===> Test loss: 149.3054, Kld loss: 54.5668, Recon loss: 149.3054
+Train Epoch: 84 [0/60000 (0%)]	Loss: 148.367706	ReLoss: 148.367706	KLDLoss: 95.091156
+Train Epoch: 84 [19200/60000 (32%)]	Loss: 150.731171	ReLoss: 150.731171	KLDLoss: 38.700218
+Train Epoch: 84 [38400/60000 (64%)]	Loss: 146.942413	ReLoss: 146.942413	KLDLoss: 69.338394
+Train Epoch: 84 [57600/60000 (96%)]	Loss: 149.731018	ReLoss: 149.731018	KLDLoss: 38.064369
+===> Epoch: 84 Average loss: 148.1385, Kld loss: 61.1782, Recon loss: 148.1385
+===> Test loss: 148.4103, Kld loss: 64.7057, Recon loss: 148.4103
+Train Epoch: 85 [0/60000 (0%)]	Loss: 141.682785	ReLoss: 141.682785	KLDLoss: 93.106628
+Train Epoch: 85 [19200/60000 (32%)]	Loss: 159.714325	ReLoss: 159.714325	KLDLoss: 41.482182
+Train Epoch: 85 [38400/60000 (64%)]	Loss: 155.142426	ReLoss: 155.142426	KLDLoss: 85.160103
+Train Epoch: 85 [57600/60000 (96%)]	Loss: 145.849609	ReLoss: 145.849609	KLDLoss: 42.713089
+===> Epoch: 85 Average loss: 148.0953, Kld loss: 65.3301, Recon loss: 148.0953
+===> Test loss: 148.1674, Kld loss: 59.7743, Recon loss: 148.1674
+Train Epoch: 86 [0/60000 (0%)]	Loss: 131.092255	ReLoss: 131.092255	KLDLoss: 52.639221
+Train Epoch: 86 [19200/60000 (32%)]	Loss: 146.374786	ReLoss: 146.374786	KLDLoss: 55.625763
+Train Epoch: 86 [38400/60000 (64%)]	Loss: 149.253983	ReLoss: 149.253983	KLDLoss: 41.306000
+Train Epoch: 86 [57600/60000 (96%)]	Loss: 137.722610	ReLoss: 137.722610	KLDLoss: 47.720688
+===> Epoch: 86 Average loss: 147.6270, Kld loss: 63.6146, Recon loss: 147.6270
+===> Test loss: 148.0323, Kld loss: 64.8573, Recon loss: 148.0323
+Train Epoch: 87 [0/60000 (0%)]	Loss: 133.023300	ReLoss: 133.023300	KLDLoss: 113.871719
+Train Epoch: 87 [19200/60000 (32%)]	Loss: 142.975815	ReLoss: 142.975815	KLDLoss: 42.378441
+Train Epoch: 87 [38400/60000 (64%)]	Loss: 140.993591	ReLoss: 140.993591	KLDLoss: 40.927189
+Train Epoch: 87 [57600/60000 (96%)]	Loss: 152.009186	ReLoss: 152.009186	KLDLoss: 54.556038
+===> Epoch: 87 Average loss: 147.7630, Kld loss: 68.9819, Recon loss: 147.7630
+===> Test loss: 150.0956, Kld loss: 81.0316, Recon loss: 150.0956
+Train Epoch: 88 [0/60000 (0%)]	Loss: 155.255630	ReLoss: 155.255630	KLDLoss: 43.474903
+Train Epoch: 88 [19200/60000 (32%)]	Loss: 143.706665	ReLoss: 143.706665	KLDLoss: 76.883240
+Train Epoch: 88 [38400/60000 (64%)]	Loss: 144.468307	ReLoss: 144.468307	KLDLoss: 46.988480
+Train Epoch: 88 [57600/60000 (96%)]	Loss: 154.921967	ReLoss: 154.921967	KLDLoss: 70.922150
+===> Epoch: 88 Average loss: 147.9090, Kld loss: 73.3201, Recon loss: 147.9090
+===> Test loss: 147.6407, Kld loss: 73.8056, Recon loss: 147.6407
+Train Epoch: 89 [0/60000 (0%)]	Loss: 141.876419	ReLoss: 141.876419	KLDLoss: 105.508102
+Train Epoch: 89 [19200/60000 (32%)]	Loss: 148.809326	ReLoss: 148.809326	KLDLoss: 114.333466
+Train Epoch: 89 [38400/60000 (64%)]	Loss: 137.045212	ReLoss: 137.045212	KLDLoss: 46.514851
+Train Epoch: 89 [57600/60000 (96%)]	Loss: 139.201141	ReLoss: 139.201141	KLDLoss: 58.943901
+===> Epoch: 89 Average loss: 146.9127, Kld loss: 74.1454, Recon loss: 146.9127
+===> Test loss: 147.0561, Kld loss: 68.4149, Recon loss: 147.0561
+Train Epoch: 90 [0/60000 (0%)]	Loss: 151.021240	ReLoss: 151.021240	KLDLoss: 31.747892
+Train Epoch: 90 [19200/60000 (32%)]	Loss: 150.808167	ReLoss: 150.808167	KLDLoss: 106.373505
+Train Epoch: 90 [38400/60000 (64%)]	Loss: 150.667801	ReLoss: 150.667801	KLDLoss: 74.028961
+Train Epoch: 90 [57600/60000 (96%)]	Loss: 159.528778	ReLoss: 159.528778	KLDLoss: 34.048164
+===> Epoch: 90 Average loss: 147.1498, Kld loss: 69.8190, Recon loss: 147.1498
+===> Test loss: 146.9796, Kld loss: 57.3677, Recon loss: 146.9796
+Train Epoch: 91 [0/60000 (0%)]	Loss: 134.786087	ReLoss: 134.786087	KLDLoss: 30.691730
+Train Epoch: 91 [19200/60000 (32%)]	Loss: 162.170212	ReLoss: 162.170212	KLDLoss: 58.051498
+Train Epoch: 91 [38400/60000 (64%)]	Loss: 148.668365	ReLoss: 148.668365	KLDLoss: 106.190094
+Train Epoch: 91 [57600/60000 (96%)]	Loss: 148.339233	ReLoss: 148.339233	KLDLoss: 25.078308
+===> Epoch: 91 Average loss: 147.2336, Kld loss: 57.3066, Recon loss: 147.2336
+===> Test loss: 150.7010, Kld loss: 49.4928, Recon loss: 150.7010
+Train Epoch: 92 [0/60000 (0%)]	Loss: 151.071259	ReLoss: 151.071259	KLDLoss: 57.610897
+Train Epoch: 92 [19200/60000 (32%)]	Loss: 163.639191	ReLoss: 163.639191	KLDLoss: 32.569595
+Train Epoch: 92 [38400/60000 (64%)]	Loss: 150.005981	ReLoss: 150.005981	KLDLoss: 126.042114
+Train Epoch: 92 [57600/60000 (96%)]	Loss: 151.243729	ReLoss: 151.243729	KLDLoss: 32.357979
+===> Epoch: 92 Average loss: 148.7979, Kld loss: 58.6848, Recon loss: 148.7979
+===> Test loss: 148.3785, Kld loss: 61.4571, Recon loss: 148.3785
+Train Epoch: 93 [0/60000 (0%)]	Loss: 152.257034	ReLoss: 152.257034	KLDLoss: 31.251129
+Train Epoch: 93 [19200/60000 (32%)]	Loss: 148.324402	ReLoss: 148.324402	KLDLoss: 87.163841
+Train Epoch: 93 [38400/60000 (64%)]	Loss: 158.077087	ReLoss: 158.077087	KLDLoss: 33.392323
+Train Epoch: 93 [57600/60000 (96%)]	Loss: 156.041367	ReLoss: 156.041367	KLDLoss: 62.177601
+===> Epoch: 93 Average loss: 146.9920, Kld loss: 65.4941, Recon loss: 146.9920
+===> Test loss: 146.6079, Kld loss: 60.4469, Recon loss: 146.6079
+Train Epoch: 94 [0/60000 (0%)]	Loss: 136.338196	ReLoss: 136.338196	KLDLoss: 74.262192
+Train Epoch: 94 [19200/60000 (32%)]	Loss: 149.988754	ReLoss: 149.988754	KLDLoss: 61.703487
+Train Epoch: 94 [38400/60000 (64%)]	Loss: 157.147171	ReLoss: 157.147171	KLDLoss: 25.769598
+Train Epoch: 94 [57600/60000 (96%)]	Loss: 156.805573	ReLoss: 156.805573	KLDLoss: 159.548950
+===> Epoch: 94 Average loss: 146.7934, Kld loss: 63.3136, Recon loss: 146.7934
+===> Test loss: 147.6675, Kld loss: 57.0137, Recon loss: 147.6675
+Train Epoch: 95 [0/60000 (0%)]	Loss: 154.245880	ReLoss: 154.245880	KLDLoss: 37.556686
+Train Epoch: 95 [19200/60000 (32%)]	Loss: 130.231842	ReLoss: 130.231842	KLDLoss: 36.050758
+Train Epoch: 95 [38400/60000 (64%)]	Loss: 142.688004	ReLoss: 142.688004	KLDLoss: 52.939102
+Train Epoch: 95 [57600/60000 (96%)]	Loss: 146.273392	ReLoss: 146.273392	KLDLoss: 82.363663
+===> Epoch: 95 Average loss: 147.1368, Kld loss: 55.3148, Recon loss: 147.1368
+===> Test loss: 147.7568, Kld loss: 58.1767, Recon loss: 147.7568
+Train Epoch: 96 [0/60000 (0%)]	Loss: 148.847580	ReLoss: 148.847580	KLDLoss: 105.524559
+Train Epoch: 96 [19200/60000 (32%)]	Loss: 145.839340	ReLoss: 145.839340	KLDLoss: 56.901760
+Train Epoch: 96 [38400/60000 (64%)]	Loss: 138.433670	ReLoss: 138.433670	KLDLoss: 92.872025
+Train Epoch: 96 [57600/60000 (96%)]	Loss: 143.765961	ReLoss: 143.765961	KLDLoss: 113.553238
+===> Epoch: 96 Average loss: 147.0154, Kld loss: 62.3418, Recon loss: 147.0154
+===> Test loss: 146.8865, Kld loss: 68.0749, Recon loss: 146.8865
+Train Epoch: 97 [0/60000 (0%)]	Loss: 150.846649	ReLoss: 150.846649	KLDLoss: 49.813129
+Train Epoch: 97 [19200/60000 (32%)]	Loss: 144.488693	ReLoss: 144.488693	KLDLoss: 62.902557
+Train Epoch: 97 [38400/60000 (64%)]	Loss: 147.596130	ReLoss: 147.596130	KLDLoss: 65.534431
+Train Epoch: 97 [57600/60000 (96%)]	Loss: 137.639053	ReLoss: 137.639053	KLDLoss: 39.758202
+===> Epoch: 97 Average loss: 146.6154, Kld loss: 70.1341, Recon loss: 146.6154
+===> Test loss: 146.8638, Kld loss: 69.8284, Recon loss: 146.8638
+Train Epoch: 98 [0/60000 (0%)]	Loss: 149.220245	ReLoss: 149.220245	KLDLoss: 76.575027
+Train Epoch: 98 [19200/60000 (32%)]	Loss: 147.411163	ReLoss: 147.411163	KLDLoss: 78.108200
+Train Epoch: 98 [38400/60000 (64%)]	Loss: 151.124023	ReLoss: 151.124023	KLDLoss: 38.951080
+Train Epoch: 98 [57600/60000 (96%)]	Loss: 151.870300	ReLoss: 151.870300	KLDLoss: 43.287209
+===> Epoch: 98 Average loss: 146.5006, Kld loss: 66.8703, Recon loss: 146.5006
+===> Test loss: 146.2370, Kld loss: 57.7967, Recon loss: 146.2370
+Train Epoch: 99 [0/60000 (0%)]	Loss: 147.065552	ReLoss: 147.065552	KLDLoss: 48.018768
+Train Epoch: 99 [19200/60000 (32%)]	Loss: 146.768951	ReLoss: 146.768951	KLDLoss: 42.721336
+Train Epoch: 99 [38400/60000 (64%)]	Loss: 144.185242	ReLoss: 144.185242	KLDLoss: 34.606728
+Train Epoch: 99 [57600/60000 (96%)]	Loss: 154.765076	ReLoss: 154.765076	KLDLoss: 35.832581
+===> Epoch: 99 Average loss: 147.8348, Kld loss: 55.1291, Recon loss: 147.8348
+===> Test loss: 149.6188, Kld loss: 51.3058, Recon loss: 149.6188
+Train Epoch: 100 [0/60000 (0%)]	Loss: 149.791290	ReLoss: 149.791290	KLDLoss: 85.391731
+Train Epoch: 100 [19200/60000 (32%)]	Loss: 152.128723	ReLoss: 152.128723	KLDLoss: 101.166077
+Train Epoch: 100 [38400/60000 (64%)]	Loss: 152.083298	ReLoss: 152.083298	KLDLoss: 37.033012
+Train Epoch: 100 [57600/60000 (96%)]	Loss: 157.826202	ReLoss: 157.826202	KLDLoss: 104.739944
+===> Epoch: 100 Average loss: 148.1584, Kld loss: 55.3576, Recon loss: 148.1584
+===> Test loss: 149.2091, Kld loss: 55.6906, Recon loss: 149.2091
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+--batch_size 64 --z_dim 2 --l1 0 --epoch 100
+Train Epoch: 1 [0/60000 (0%)]	Loss: 544.165283	ReLoss: 544.165283	KLDLoss: 0.003377
+Train Epoch: 1 [19200/60000 (32%)]	Loss: 160.075073	ReLoss: 160.075073	KLDLoss: 21.223892
+Train Epoch: 1 [38400/60000 (64%)]	Loss: 150.994934	ReLoss: 150.994934	KLDLoss: 34.434135
+Train Epoch: 1 [57600/60000 (96%)]	Loss: 157.771240	ReLoss: 157.771240	KLDLoss: 27.880510
+===> Epoch: 1 Average loss: 165.1409, Kld loss: 23.6811, Recon loss: 165.1409
+===> Test loss: 149.8754, Kld loss: 36.5482, Recon loss: 149.8754
+Train Epoch: 2 [0/60000 (0%)]	Loss: 141.862854	ReLoss: 141.862854	KLDLoss: 39.578068
+Train Epoch: 2 [19200/60000 (32%)]	Loss: 153.178040	ReLoss: 153.178040	KLDLoss: 38.491577
+Train Epoch: 2 [38400/60000 (64%)]	Loss: 134.194153	ReLoss: 134.194153	KLDLoss: 46.457817
+Train Epoch: 2 [57600/60000 (96%)]	Loss: 146.034424	ReLoss: 146.034424	KLDLoss: 34.918560
+===> Epoch: 2 Average loss: 146.2924, Kld loss: 40.9687, Recon loss: 146.2924
+===> Test loss: 143.5265, Kld loss: 44.5722, Recon loss: 143.5265
+Train Epoch: 3 [0/60000 (0%)]	Loss: 137.292297	ReLoss: 137.292297	KLDLoss: 60.496593
+Train Epoch: 3 [19200/60000 (32%)]	Loss: 144.256577	ReLoss: 144.256577	KLDLoss: 40.784706
+Train Epoch: 3 [38400/60000 (64%)]	Loss: 140.262665	ReLoss: 140.262665	KLDLoss: 71.604660
+Train Epoch: 3 [57600/60000 (96%)]	Loss: 136.853180	ReLoss: 136.853180	KLDLoss: 68.094330
+===> Epoch: 3 Average loss: 142.0817, Kld loss: 54.0397, Recon loss: 142.0817
+===> Test loss: 140.8500, Kld loss: 60.4922, Recon loss: 140.8500
+Train Epoch: 4 [0/60000 (0%)]	Loss: 139.999939	ReLoss: 139.999939	KLDLoss: 74.855499
+Train Epoch: 4 [19200/60000 (32%)]	Loss: 135.261169	ReLoss: 135.261169	KLDLoss: 68.907967
+Train Epoch: 4 [38400/60000 (64%)]	Loss: 151.436844	ReLoss: 151.436844	KLDLoss: 50.216488
+Train Epoch: 4 [57600/60000 (96%)]	Loss: 140.637711	ReLoss: 140.637711	KLDLoss: 44.970734
+===> Epoch: 4 Average loss: 139.4267, Kld loss: 59.8626, Recon loss: 139.4267
+===> Test loss: 138.1584, Kld loss: 60.8975, Recon loss: 138.1584
+Train Epoch: 5 [0/60000 (0%)]	Loss: 131.053528	ReLoss: 131.053528	KLDLoss: 54.334984
+Train Epoch: 5 [19200/60000 (32%)]	Loss: 137.344635	ReLoss: 137.344635	KLDLoss: 39.796810
+Train Epoch: 5 [38400/60000 (64%)]	Loss: 131.440063	ReLoss: 131.440063	KLDLoss: 46.384411
+Train Epoch: 5 [57600/60000 (96%)]	Loss: 142.310791	ReLoss: 142.310791	KLDLoss: 77.967422
+===> Epoch: 5 Average loss: 137.3961, Kld loss: 64.2595, Recon loss: 137.3961
+===> Test loss: 137.4246, Kld loss: 64.5692, Recon loss: 137.4246
+Train Epoch: 6 [0/60000 (0%)]	Loss: 122.926674	ReLoss: 122.926674	KLDLoss: 98.228561
+Train Epoch: 6 [19200/60000 (32%)]	Loss: 137.043884	ReLoss: 137.043884	KLDLoss: 91.198318
+Train Epoch: 6 [38400/60000 (64%)]	Loss: 129.386642	ReLoss: 129.386642	KLDLoss: 104.138016
+Train Epoch: 6 [57600/60000 (96%)]	Loss: 127.565048	ReLoss: 127.565048	KLDLoss: 108.712326
+===> Epoch: 6 Average loss: 136.1236, Kld loss: 68.8036, Recon loss: 136.1236
+===> Test loss: 136.8467, Kld loss: 68.3749, Recon loss: 136.8467
+Train Epoch: 7 [0/60000 (0%)]	Loss: 128.062378	ReLoss: 128.062378	KLDLoss: 106.598251
+Train Epoch: 7 [19200/60000 (32%)]	Loss: 144.476990	ReLoss: 144.476990	KLDLoss: 74.142181
+Train Epoch: 7 [38400/60000 (64%)]	Loss: 142.132080	ReLoss: 142.132080	KLDLoss: 59.763870
+Train Epoch: 7 [57600/60000 (96%)]	Loss: 138.722412	ReLoss: 138.722412	KLDLoss: 65.761414
+===> Epoch: 7 Average loss: 135.1706, Kld loss: 69.4851, Recon loss: 135.1706
+===> Test loss: 135.0221, Kld loss: 66.7572, Recon loss: 135.0221
+Train Epoch: 8 [0/60000 (0%)]	Loss: 136.656281	ReLoss: 136.656281	KLDLoss: 101.261932
+Train Epoch: 8 [19200/60000 (32%)]	Loss: 141.741776	ReLoss: 141.741776	KLDLoss: 53.575562
+Train Epoch: 8 [38400/60000 (64%)]	Loss: 127.776794	ReLoss: 127.776794	KLDLoss: 72.872322
+Train Epoch: 8 [57600/60000 (96%)]	Loss: 142.014954	ReLoss: 142.014954	KLDLoss: 56.523960
+===> Epoch: 8 Average loss: 134.2553, Kld loss: 67.2016, Recon loss: 134.2553
+===> Test loss: 134.3566, Kld loss: 68.1730, Recon loss: 134.3566
+Train Epoch: 9 [0/60000 (0%)]	Loss: 133.013992	ReLoss: 133.013992	KLDLoss: 90.129921
+Train Epoch: 9 [19200/60000 (32%)]	Loss: 132.356720	ReLoss: 132.356720	KLDLoss: 73.924026
+Train Epoch: 9 [38400/60000 (64%)]	Loss: 135.695282	ReLoss: 135.695282	KLDLoss: 79.634827
+Train Epoch: 9 [57600/60000 (96%)]	Loss: 120.620255	ReLoss: 120.620255	KLDLoss: 91.677483
+===> Epoch: 9 Average loss: 133.2606, Kld loss: 67.8386, Recon loss: 133.2606
+===> Test loss: 133.9659, Kld loss: 67.5375, Recon loss: 133.9659
+Train Epoch: 10 [0/60000 (0%)]	Loss: 120.541458	ReLoss: 120.541458	KLDLoss: 129.691284
+Train Epoch: 10 [19200/60000 (32%)]	Loss: 122.679428	ReLoss: 122.679428	KLDLoss: 88.697174
+Train Epoch: 10 [38400/60000 (64%)]	Loss: 133.467834	ReLoss: 133.467834	KLDLoss: 67.102402
+Train Epoch: 10 [57600/60000 (96%)]	Loss: 140.885651	ReLoss: 140.885651	KLDLoss: 58.211388
+===> Epoch: 10 Average loss: 132.8308, Kld loss: 67.2179, Recon loss: 132.8308
+===> Test loss: 134.0898, Kld loss: 66.0386, Recon loss: 134.0898
+Train Epoch: 11 [0/60000 (0%)]	Loss: 135.285675	ReLoss: 135.285675	KLDLoss: 63.979279
+Train Epoch: 11 [19200/60000 (32%)]	Loss: 126.739311	ReLoss: 126.739311	KLDLoss: 77.725052
+Train Epoch: 11 [38400/60000 (64%)]	Loss: 137.297455	ReLoss: 137.297455	KLDLoss: 70.685661
+Train Epoch: 11 [57600/60000 (96%)]	Loss: 136.203369	ReLoss: 136.203369	KLDLoss: 52.327919
+===> Epoch: 11 Average loss: 132.6304, Kld loss: 63.3128, Recon loss: 132.6304
+===> Test loss: 133.1144, Kld loss: 61.9725, Recon loss: 133.1144
+Train Epoch: 12 [0/60000 (0%)]	Loss: 128.967651	ReLoss: 128.967651	KLDLoss: 78.378960
+Train Epoch: 12 [19200/60000 (32%)]	Loss: 136.942200	ReLoss: 136.942200	KLDLoss: 53.043304
+Train Epoch: 12 [38400/60000 (64%)]	Loss: 142.168655	ReLoss: 142.168655	KLDLoss: 64.641228
+Train Epoch: 12 [57600/60000 (96%)]	Loss: 125.517845	ReLoss: 125.517845	KLDLoss: 65.573631
+===> Epoch: 12 Average loss: 131.5981, Kld loss: 63.8126, Recon loss: 131.5981
+===> Test loss: 132.8560, Kld loss: 66.4538, Recon loss: 132.8560
+Train Epoch: 13 [0/60000 (0%)]	Loss: 133.734894	ReLoss: 133.734894	KLDLoss: 82.079041
+Train Epoch: 13 [19200/60000 (32%)]	Loss: 129.801254	ReLoss: 129.801254	KLDLoss: 62.924416
+Train Epoch: 13 [38400/60000 (64%)]	Loss: 129.362915	ReLoss: 129.362915	KLDLoss: 65.567825
+Train Epoch: 13 [57600/60000 (96%)]	Loss: 130.060577	ReLoss: 130.060577	KLDLoss: 52.316780
+===> Epoch: 13 Average loss: 131.2924, Kld loss: 64.0703, Recon loss: 131.2924
+===> Test loss: 132.5830, Kld loss: 69.3145, Recon loss: 132.5830
+Train Epoch: 14 [0/60000 (0%)]	Loss: 136.186035	ReLoss: 136.186035	KLDLoss: 63.161049
+Train Epoch: 14 [19200/60000 (32%)]	Loss: 132.145477	ReLoss: 132.145477	KLDLoss: 45.569122
+Train Epoch: 14 [38400/60000 (64%)]	Loss: 123.269257	ReLoss: 123.269257	KLDLoss: 94.824974
+Train Epoch: 14 [57600/60000 (96%)]	Loss: 126.631622	ReLoss: 126.631622	KLDLoss: 67.446579
+===> Epoch: 14 Average loss: 130.8683, Kld loss: 66.3892, Recon loss: 130.8683
+===> Test loss: 132.0424, Kld loss: 65.2026, Recon loss: 132.0424
+Train Epoch: 15 [0/60000 (0%)]	Loss: 138.280563	ReLoss: 138.280563	KLDLoss: 45.461544
+Train Epoch: 15 [19200/60000 (32%)]	Loss: 141.747620	ReLoss: 141.747620	KLDLoss: 54.951893
+Train Epoch: 15 [38400/60000 (64%)]	Loss: 134.167480	ReLoss: 134.167480	KLDLoss: 68.692581
+Train Epoch: 15 [57600/60000 (96%)]	Loss: 135.972931	ReLoss: 135.972931	KLDLoss: 54.485882
+===> Epoch: 15 Average loss: 130.8121, Kld loss: 69.7329, Recon loss: 130.8121
+===> Test loss: 132.7512, Kld loss: 65.6349, Recon loss: 132.7512
+Train Epoch: 16 [0/60000 (0%)]	Loss: 127.493423	ReLoss: 127.493423	KLDLoss: 72.284012
+Train Epoch: 16 [19200/60000 (32%)]	Loss: 128.539978	ReLoss: 128.539978	KLDLoss: 67.787163
+Train Epoch: 16 [38400/60000 (64%)]	Loss: 134.194519	ReLoss: 134.194519	KLDLoss: 53.945648
+Train Epoch: 16 [57600/60000 (96%)]	Loss: 128.296875	ReLoss: 128.296875	KLDLoss: 69.442093
+===> Epoch: 16 Average loss: 130.6507, Kld loss: 63.4729, Recon loss: 130.6507
+===> Test loss: 132.0193, Kld loss: 69.0148, Recon loss: 132.0193
+Train Epoch: 17 [0/60000 (0%)]	Loss: 127.701302	ReLoss: 127.701302	KLDLoss: 79.415680
+Train Epoch: 17 [19200/60000 (32%)]	Loss: 137.604263	ReLoss: 137.604263	KLDLoss: 52.413483
+Train Epoch: 17 [38400/60000 (64%)]	Loss: 125.444077	ReLoss: 125.444077	KLDLoss: 62.687424
+Train Epoch: 17 [57600/60000 (96%)]	Loss: 128.088165	ReLoss: 128.088165	KLDLoss: 74.850082
+===> Epoch: 17 Average loss: 130.4128, Kld loss: 65.7606, Recon loss: 130.4128
+===> Test loss: 130.7371, Kld loss: 66.1544, Recon loss: 130.7371
+Train Epoch: 18 [0/60000 (0%)]	Loss: 135.505981	ReLoss: 135.505981	KLDLoss: 50.121105
+Train Epoch: 18 [19200/60000 (32%)]	Loss: 125.592857	ReLoss: 125.592857	KLDLoss: 81.986259
+Train Epoch: 18 [38400/60000 (64%)]	Loss: 136.624146	ReLoss: 136.624146	KLDLoss: 51.039566
+Train Epoch: 18 [57600/60000 (96%)]	Loss: 128.070557	ReLoss: 128.070557	KLDLoss: 47.319931
+===> Epoch: 18 Average loss: 129.9506, Kld loss: 65.6134, Recon loss: 129.9506
+===> Test loss: 131.6506, Kld loss: 63.5266, Recon loss: 131.6506
+Train Epoch: 19 [0/60000 (0%)]	Loss: 126.845169	ReLoss: 126.845169	KLDLoss: 65.351067
+Train Epoch: 19 [19200/60000 (32%)]	Loss: 130.255981	ReLoss: 130.255981	KLDLoss: 77.629074
+Train Epoch: 19 [38400/60000 (64%)]	Loss: 131.785309	ReLoss: 131.785309	KLDLoss: 78.385094
+Train Epoch: 19 [57600/60000 (96%)]	Loss: 128.403656	ReLoss: 128.403656	KLDLoss: 56.460350
+===> Epoch: 19 Average loss: 130.0157, Kld loss: 65.0494, Recon loss: 130.0157
+===> Test loss: 131.5545, Kld loss: 65.9803, Recon loss: 131.5545
+Train Epoch: 20 [0/60000 (0%)]	Loss: 126.257614	ReLoss: 126.257614	KLDLoss: 50.859779
+Train Epoch: 20 [19200/60000 (32%)]	Loss: 137.065521	ReLoss: 137.065521	KLDLoss: 56.044693
+Train Epoch: 20 [38400/60000 (64%)]	Loss: 126.540756	ReLoss: 126.540756	KLDLoss: 66.407356
+Train Epoch: 20 [57600/60000 (96%)]	Loss: 129.544388	ReLoss: 129.544388	KLDLoss: 52.356258
+===> Epoch: 20 Average loss: 129.3800, Kld loss: 64.3342, Recon loss: 129.3800
+===> Test loss: 130.5477, Kld loss: 62.2568, Recon loss: 130.5477
+Train Epoch: 21 [0/60000 (0%)]	Loss: 131.528259	ReLoss: 131.528259	KLDLoss: 45.934837
+Train Epoch: 21 [19200/60000 (32%)]	Loss: 132.427444	ReLoss: 132.427444	KLDLoss: 62.723518
+Train Epoch: 21 [38400/60000 (64%)]	Loss: 131.369171	ReLoss: 131.369171	KLDLoss: 76.692978
+Train Epoch: 21 [57600/60000 (96%)]	Loss: 129.148315	ReLoss: 129.148315	KLDLoss: 78.906219
+===> Epoch: 21 Average loss: 129.9435, Kld loss: 66.5632, Recon loss: 129.9435
+===> Test loss: 131.1202, Kld loss: 68.4303, Recon loss: 131.1202
+Train Epoch: 22 [0/60000 (0%)]	Loss: 131.613632	ReLoss: 131.613632	KLDLoss: 58.934475
+Train Epoch: 22 [19200/60000 (32%)]	Loss: 124.438080	ReLoss: 124.438080	KLDLoss: 75.665497
+Train Epoch: 22 [38400/60000 (64%)]	Loss: 132.224854	ReLoss: 132.224854	KLDLoss: 67.426895
+Train Epoch: 22 [57600/60000 (96%)]	Loss: 126.839211	ReLoss: 126.839211	KLDLoss: 106.233612
+===> Epoch: 22 Average loss: 129.5386, Kld loss: 70.3088, Recon loss: 129.5386
+===> Test loss: 130.5974, Kld loss: 73.1981, Recon loss: 130.5974
+Train Epoch: 23 [0/60000 (0%)]	Loss: 125.208954	ReLoss: 125.208954	KLDLoss: 86.172745
+Train Epoch: 23 [19200/60000 (32%)]	Loss: 132.370697	ReLoss: 132.370697	KLDLoss: 57.602779
+Train Epoch: 23 [38400/60000 (64%)]	Loss: 125.845505	ReLoss: 125.845505	KLDLoss: 52.451187
+Train Epoch: 23 [57600/60000 (96%)]	Loss: 125.678398	ReLoss: 125.678398	KLDLoss: 73.475388
+===> Epoch: 23 Average loss: 128.8668, Kld loss: 73.8785, Recon loss: 128.8668
+===> Test loss: 130.6390, Kld loss: 79.1004, Recon loss: 130.6390
+Train Epoch: 24 [0/60000 (0%)]	Loss: 121.225098	ReLoss: 121.225098	KLDLoss: 96.396835
+Train Epoch: 24 [19200/60000 (32%)]	Loss: 130.228195	ReLoss: 130.228195	KLDLoss: 71.606674
+Train Epoch: 24 [38400/60000 (64%)]	Loss: 119.826485	ReLoss: 119.826485	KLDLoss: 68.986008
+Train Epoch: 24 [57600/60000 (96%)]	Loss: 117.154106	ReLoss: 117.154106	KLDLoss: 79.214874
+===> Epoch: 24 Average loss: 128.7053, Kld loss: 78.0419, Recon loss: 128.7053
+===> Test loss: 130.5025, Kld loss: 79.0687, Recon loss: 130.5025
+Train Epoch: 25 [0/60000 (0%)]	Loss: 125.500755	ReLoss: 125.500755	KLDLoss: 94.537888
+Train Epoch: 25 [19200/60000 (32%)]	Loss: 126.075974	ReLoss: 126.075974	KLDLoss: 103.510376
+Train Epoch: 25 [38400/60000 (64%)]	Loss: 128.931808	ReLoss: 128.931808	KLDLoss: 99.822021
+Train Epoch: 25 [57600/60000 (96%)]	Loss: 129.909607	ReLoss: 129.909607	KLDLoss: 80.522934
+===> Epoch: 25 Average loss: 128.8944, Kld loss: 80.4431, Recon loss: 128.8944
+===> Test loss: 130.1633, Kld loss: 79.6055, Recon loss: 130.1633
+Train Epoch: 26 [0/60000 (0%)]	Loss: 129.228027	ReLoss: 129.228027	KLDLoss: 75.570953
+Train Epoch: 26 [19200/60000 (32%)]	Loss: 125.922745	ReLoss: 125.922745	KLDLoss: 64.012718
+Train Epoch: 26 [38400/60000 (64%)]	Loss: 128.527405	ReLoss: 128.527405	KLDLoss: 73.817932
+Train Epoch: 26 [57600/60000 (96%)]	Loss: 132.686127	ReLoss: 132.686127	KLDLoss: 64.909515
+===> Epoch: 26 Average loss: 128.3620, Kld loss: 80.2717, Recon loss: 128.3620
+===> Test loss: 129.8245, Kld loss: 76.5528, Recon loss: 129.8245
+Train Epoch: 27 [0/60000 (0%)]	Loss: 132.093475	ReLoss: 132.093475	KLDLoss: 60.356842
+Train Epoch: 27 [19200/60000 (32%)]	Loss: 131.800598	ReLoss: 131.800598	KLDLoss: 87.162704
+Train Epoch: 27 [38400/60000 (64%)]	Loss: 141.236176	ReLoss: 141.236176	KLDLoss: 72.034485
+Train Epoch: 27 [57600/60000 (96%)]	Loss: 133.998978	ReLoss: 133.998978	KLDLoss: 52.237152
+===> Epoch: 27 Average loss: 128.1774, Kld loss: 80.4394, Recon loss: 128.1774
+===> Test loss: 130.1505, Kld loss: 81.8665, Recon loss: 130.1505
+Train Epoch: 28 [0/60000 (0%)]	Loss: 129.840851	ReLoss: 129.840851	KLDLoss: 63.105774
+Train Epoch: 28 [19200/60000 (32%)]	Loss: 141.865173	ReLoss: 141.865173	KLDLoss: 59.485760
+Train Epoch: 28 [38400/60000 (64%)]	Loss: 121.953110	ReLoss: 121.953110	KLDLoss: 81.289474
+Train Epoch: 28 [57600/60000 (96%)]	Loss: 132.679077	ReLoss: 132.679077	KLDLoss: 73.135986
+===> Epoch: 28 Average loss: 128.1621, Kld loss: 85.6758, Recon loss: 128.1621
+===> Test loss: 129.3315, Kld loss: 83.6573, Recon loss: 129.3315
+Train Epoch: 29 [0/60000 (0%)]	Loss: 135.186646	ReLoss: 135.186646	KLDLoss: 74.426559
+Train Epoch: 29 [19200/60000 (32%)]	Loss: 120.315353	ReLoss: 120.315353	KLDLoss: 114.381714
+Train Epoch: 29 [38400/60000 (64%)]	Loss: 134.795013	ReLoss: 134.795013	KLDLoss: 73.800354
+Train Epoch: 29 [57600/60000 (96%)]	Loss: 128.864807	ReLoss: 128.864807	KLDLoss: 69.313568
+===> Epoch: 29 Average loss: 128.3024, Kld loss: 85.3442, Recon loss: 128.3024
+===> Test loss: 129.6655, Kld loss: 93.0239, Recon loss: 129.6655
+Train Epoch: 30 [0/60000 (0%)]	Loss: 128.647522	ReLoss: 128.647522	KLDLoss: 81.016754
+Train Epoch: 30 [19200/60000 (32%)]	Loss: 129.050049	ReLoss: 129.050049	KLDLoss: 122.439247
+Train Epoch: 30 [38400/60000 (64%)]	Loss: 126.905243	ReLoss: 126.905243	KLDLoss: 82.485046
+Train Epoch: 30 [57600/60000 (96%)]	Loss: 125.084259	ReLoss: 125.084259	KLDLoss: 62.584145
+===> Epoch: 30 Average loss: 128.3894, Kld loss: 96.0140, Recon loss: 128.3894
+===> Test loss: 130.0600, Kld loss: 92.0029, Recon loss: 130.0600
+Train Epoch: 31 [0/60000 (0%)]	Loss: 134.355118	ReLoss: 134.355118	KLDLoss: 76.488907
+Train Epoch: 31 [19200/60000 (32%)]	Loss: 130.819122	ReLoss: 130.819122	KLDLoss: 118.582466
+Train Epoch: 31 [38400/60000 (64%)]	Loss: 125.442406	ReLoss: 125.442406	KLDLoss: 92.437027
+Train Epoch: 31 [57600/60000 (96%)]	Loss: 129.377136	ReLoss: 129.377136	KLDLoss: 106.316528
+===> Epoch: 31 Average loss: 128.3394, Kld loss: 96.9756, Recon loss: 128.3394
+===> Test loss: 129.8386, Kld loss: 99.3803, Recon loss: 129.8386
+Train Epoch: 32 [0/60000 (0%)]	Loss: 130.162933	ReLoss: 130.162933	KLDLoss: 78.315598
+Train Epoch: 32 [19200/60000 (32%)]	Loss: 139.508362	ReLoss: 139.508362	KLDLoss: 68.898010
+Train Epoch: 32 [38400/60000 (64%)]	Loss: 124.565689	ReLoss: 124.565689	KLDLoss: 102.101540
+Train Epoch: 32 [57600/60000 (96%)]	Loss: 133.501343	ReLoss: 133.501343	KLDLoss: 102.211365
+===> Epoch: 32 Average loss: 128.0084, Kld loss: 93.1327, Recon loss: 128.0084
+===> Test loss: 129.5977, Kld loss: 88.3750, Recon loss: 129.5977
+Train Epoch: 33 [0/60000 (0%)]	Loss: 131.959579	ReLoss: 131.959579	KLDLoss: 120.060127
+Train Epoch: 33 [19200/60000 (32%)]	Loss: 128.034882	ReLoss: 128.034882	KLDLoss: 105.714432
+Train Epoch: 33 [38400/60000 (64%)]	Loss: 122.054344	ReLoss: 122.054344	KLDLoss: 87.259453
+Train Epoch: 33 [57600/60000 (96%)]	Loss: 124.395233	ReLoss: 124.395233	KLDLoss: 92.243210
+===> Epoch: 33 Average loss: 127.8462, Kld loss: 93.6684, Recon loss: 127.8462
+===> Test loss: 129.5284, Kld loss: 96.0687, Recon loss: 129.5284
+Train Epoch: 34 [0/60000 (0%)]	Loss: 127.357590	ReLoss: 127.357590	KLDLoss: 105.876167
+Train Epoch: 34 [19200/60000 (32%)]	Loss: 128.259033	ReLoss: 128.259033	KLDLoss: 117.549400
+Train Epoch: 34 [38400/60000 (64%)]	Loss: 125.212143	ReLoss: 125.212143	KLDLoss: 94.380463
+Train Epoch: 34 [57600/60000 (96%)]	Loss: 119.146065	ReLoss: 119.146065	KLDLoss: 80.196495
+===> Epoch: 34 Average loss: 127.7558, Kld loss: 93.5423, Recon loss: 127.7558
+===> Test loss: 129.9229, Kld loss: 96.6437, Recon loss: 129.9229
+Train Epoch: 35 [0/60000 (0%)]	Loss: 137.303101	ReLoss: 137.303101	KLDLoss: 99.019058
+Train Epoch: 35 [19200/60000 (32%)]	Loss: 128.193802	ReLoss: 128.193802	KLDLoss: 83.159576
+Train Epoch: 35 [38400/60000 (64%)]	Loss: 127.072601	ReLoss: 127.072601	KLDLoss: 124.643539
+Train Epoch: 35 [57600/60000 (96%)]	Loss: 131.396973	ReLoss: 131.396973	KLDLoss: 105.358154
+===> Epoch: 35 Average loss: 127.7796, Kld loss: 99.8249, Recon loss: 127.7796
+===> Test loss: 129.0181, Kld loss: 99.6975, Recon loss: 129.0181
+Train Epoch: 36 [0/60000 (0%)]	Loss: 115.158722	ReLoss: 115.158722	KLDLoss: 115.799797
+Train Epoch: 36 [19200/60000 (32%)]	Loss: 113.203506	ReLoss: 113.203506	KLDLoss: 101.737732
+Train Epoch: 36 [38400/60000 (64%)]	Loss: 134.405869	ReLoss: 134.405869	KLDLoss: 80.993477
+Train Epoch: 36 [57600/60000 (96%)]	Loss: 128.285568	ReLoss: 128.285568	KLDLoss: 110.391846
+===> Epoch: 36 Average loss: 127.1493, Kld loss: 98.8475, Recon loss: 127.1493
+===> Test loss: 129.7684, Kld loss: 101.9914, Recon loss: 129.7684
+Train Epoch: 37 [0/60000 (0%)]	Loss: 123.083817	ReLoss: 123.083817	KLDLoss: 111.213882
+Train Epoch: 37 [19200/60000 (32%)]	Loss: 118.926117	ReLoss: 118.926117	KLDLoss: 117.485603
+Train Epoch: 37 [38400/60000 (64%)]	Loss: 132.755005	ReLoss: 132.755005	KLDLoss: 87.508095
+Train Epoch: 37 [57600/60000 (96%)]	Loss: 116.348709	ReLoss: 116.348709	KLDLoss: 171.063660
+===> Epoch: 37 Average loss: 127.1487, Kld loss: 100.5294, Recon loss: 127.1487
+===> Test loss: 129.2126, Kld loss: 94.6761, Recon loss: 129.2126
+Train Epoch: 38 [0/60000 (0%)]	Loss: 128.657532	ReLoss: 128.657532	KLDLoss: 129.126587
+Train Epoch: 38 [19200/60000 (32%)]	Loss: 125.432892	ReLoss: 125.432892	KLDLoss: 84.957069
+Train Epoch: 38 [38400/60000 (64%)]	Loss: 130.037415	ReLoss: 130.037415	KLDLoss: 117.046097
+Train Epoch: 38 [57600/60000 (96%)]	Loss: 121.409225	ReLoss: 121.409225	KLDLoss: 122.439316
+===> Epoch: 38 Average loss: 126.8225, Kld loss: 97.2614, Recon loss: 126.8225
+===> Test loss: 129.6665, Kld loss: 96.9743, Recon loss: 129.6665
+Train Epoch: 39 [0/60000 (0%)]	Loss: 134.268433	ReLoss: 134.268433	KLDLoss: 71.025986
+Train Epoch: 39 [19200/60000 (32%)]	Loss: 114.330750	ReLoss: 114.330750	KLDLoss: 128.578796
+Train Epoch: 39 [38400/60000 (64%)]	Loss: 137.098495	ReLoss: 137.098495	KLDLoss: 108.977325
+Train Epoch: 39 [57600/60000 (96%)]	Loss: 133.401642	ReLoss: 133.401642	KLDLoss: 73.634781
+===> Epoch: 39 Average loss: 126.5334, Kld loss: 96.9759, Recon loss: 126.5334
+===> Test loss: 128.5536, Kld loss: 95.6283, Recon loss: 128.5536
+Train Epoch: 40 [0/60000 (0%)]	Loss: 118.266777	ReLoss: 118.266777	KLDLoss: 89.286972
+Train Epoch: 40 [19200/60000 (32%)]	Loss: 122.186356	ReLoss: 122.186356	KLDLoss: 107.123497
+Train Epoch: 40 [38400/60000 (64%)]	Loss: 120.329269	ReLoss: 120.329269	KLDLoss: 84.625580
+Train Epoch: 40 [57600/60000 (96%)]	Loss: 137.060791	ReLoss: 137.060791	KLDLoss: 74.917244
+===> Epoch: 40 Average loss: 126.5429, Kld loss: 100.8407, Recon loss: 126.5429
+===> Test loss: 129.2480, Kld loss: 97.5343, Recon loss: 129.2480
+Train Epoch: 41 [0/60000 (0%)]	Loss: 131.431580	ReLoss: 131.431580	KLDLoss: 91.307640
+Train Epoch: 41 [19200/60000 (32%)]	Loss: 133.112946	ReLoss: 133.112946	KLDLoss: 102.527122
+Train Epoch: 41 [38400/60000 (64%)]	Loss: 122.834167	ReLoss: 122.834167	KLDLoss: 122.551300
+Train Epoch: 41 [57600/60000 (96%)]	Loss: 132.219971	ReLoss: 132.219971	KLDLoss: 90.828300
+===> Epoch: 41 Average loss: 126.7108, Kld loss: 101.1290, Recon loss: 126.7108
+===> Test loss: 129.1843, Kld loss: 103.7150, Recon loss: 129.1843
+Train Epoch: 42 [0/60000 (0%)]	Loss: 129.448181	ReLoss: 129.448181	KLDLoss: 102.202660
+Train Epoch: 42 [19200/60000 (32%)]	Loss: 117.834709	ReLoss: 117.834709	KLDLoss: 135.625946
+Train Epoch: 42 [38400/60000 (64%)]	Loss: 126.760620	ReLoss: 126.760620	KLDLoss: 99.815140
+Train Epoch: 42 [57600/60000 (96%)]	Loss: 121.986229	ReLoss: 121.986229	KLDLoss: 100.714951
+===> Epoch: 42 Average loss: 126.9097, Kld loss: 97.3145, Recon loss: 126.9097
+===> Test loss: 128.8293, Kld loss: 102.4935, Recon loss: 128.8293
+Train Epoch: 43 [0/60000 (0%)]	Loss: 120.423996	ReLoss: 120.423996	KLDLoss: 96.504097
+Train Epoch: 43 [19200/60000 (32%)]	Loss: 134.126358	ReLoss: 134.126358	KLDLoss: 78.651154
+Train Epoch: 43 [38400/60000 (64%)]	Loss: 116.254921	ReLoss: 116.254921	KLDLoss: 134.940765
+Train Epoch: 43 [57600/60000 (96%)]	Loss: 121.926910	ReLoss: 121.926910	KLDLoss: 90.194435
+===> Epoch: 43 Average loss: 126.5367, Kld loss: 100.2432, Recon loss: 126.5367
+===> Test loss: 130.0352, Kld loss: 98.7556, Recon loss: 130.0352
+Train Epoch: 44 [0/60000 (0%)]	Loss: 125.301247	ReLoss: 125.301247	KLDLoss: 105.525497
+Train Epoch: 44 [19200/60000 (32%)]	Loss: 122.781372	ReLoss: 122.781372	KLDLoss: 164.321167
+Train Epoch: 44 [38400/60000 (64%)]	Loss: 126.553917	ReLoss: 126.553917	KLDLoss: 97.918777
+Train Epoch: 44 [57600/60000 (96%)]	Loss: 126.699326	ReLoss: 126.699326	KLDLoss: 84.949310
+===> Epoch: 44 Average loss: 126.7104, Kld loss: 101.2074, Recon loss: 126.7104
+===> Test loss: 128.7432, Kld loss: 100.4609, Recon loss: 128.7432
+Train Epoch: 45 [0/60000 (0%)]	Loss: 127.833176	ReLoss: 127.833176	KLDLoss: 97.714752
+Train Epoch: 45 [19200/60000 (32%)]	Loss: 134.067429	ReLoss: 134.067429	KLDLoss: 81.660736
+Train Epoch: 45 [38400/60000 (64%)]	Loss: 134.317719	ReLoss: 134.317719	KLDLoss: 74.320152
+Train Epoch: 45 [57600/60000 (96%)]	Loss: 135.067322	ReLoss: 135.067322	KLDLoss: 80.877251
+===> Epoch: 45 Average loss: 126.4077, Kld loss: 104.1327, Recon loss: 126.4077
+===> Test loss: 129.3076, Kld loss: 105.8284, Recon loss: 129.3076
+Train Epoch: 46 [0/60000 (0%)]	Loss: 119.356033	ReLoss: 119.356033	KLDLoss: 107.799629
+Train Epoch: 46 [19200/60000 (32%)]	Loss: 123.472794	ReLoss: 123.472794	KLDLoss: 107.427338
+Train Epoch: 46 [38400/60000 (64%)]	Loss: 129.208786	ReLoss: 129.208786	KLDLoss: 95.025803
+Train Epoch: 46 [57600/60000 (96%)]	Loss: 128.595444	ReLoss: 128.595444	KLDLoss: 86.698837
+===> Epoch: 46 Average loss: 126.4198, Kld loss: 107.7860, Recon loss: 126.4198
+===> Test loss: 128.5396, Kld loss: 104.3280, Recon loss: 128.5396
+Train Epoch: 47 [0/60000 (0%)]	Loss: 118.510521	ReLoss: 118.510521	KLDLoss: 138.177124
+Train Epoch: 47 [19200/60000 (32%)]	Loss: 122.810959	ReLoss: 122.810959	KLDLoss: 96.094238
+Train Epoch: 47 [38400/60000 (64%)]	Loss: 117.868622	ReLoss: 117.868622	KLDLoss: 110.143677
+Train Epoch: 47 [57600/60000 (96%)]	Loss: 128.779572	ReLoss: 128.779572	KLDLoss: 99.960625
+===> Epoch: 47 Average loss: 126.1029, Kld loss: 110.5878, Recon loss: 126.1029
+===> Test loss: 128.6146, Kld loss: 108.0561, Recon loss: 128.6146
+Train Epoch: 48 [0/60000 (0%)]	Loss: 124.850464	ReLoss: 124.850464	KLDLoss: 107.514435
+Train Epoch: 48 [19200/60000 (32%)]	Loss: 129.768906	ReLoss: 129.768906	KLDLoss: 91.921707
+Train Epoch: 48 [38400/60000 (64%)]	Loss: 130.169708	ReLoss: 130.169708	KLDLoss: 111.339539
+Train Epoch: 48 [57600/60000 (96%)]	Loss: 118.343338	ReLoss: 118.343338	KLDLoss: 121.678757
+===> Epoch: 48 Average loss: 126.4961, Kld loss: 113.3459, Recon loss: 126.4961
+===> Test loss: 129.6042, Kld loss: 118.1133, Recon loss: 129.6042
+Train Epoch: 49 [0/60000 (0%)]	Loss: 127.180313	ReLoss: 127.180313	KLDLoss: 152.778885
+Train Epoch: 49 [19200/60000 (32%)]	Loss: 121.100853	ReLoss: 121.100853	KLDLoss: 86.815681
+Train Epoch: 49 [38400/60000 (64%)]	Loss: 120.171555	ReLoss: 120.171555	KLDLoss: 123.875191
+Train Epoch: 49 [57600/60000 (96%)]	Loss: 127.815033	ReLoss: 127.815033	KLDLoss: 171.961960
+===> Epoch: 49 Average loss: 126.8757, Kld loss: 120.6084, Recon loss: 126.8757
+===> Test loss: 129.1590, Kld loss: 117.8790, Recon loss: 129.1590
+Train Epoch: 50 [0/60000 (0%)]	Loss: 124.832268	ReLoss: 124.832268	KLDLoss: 131.890030
+Train Epoch: 50 [19200/60000 (32%)]	Loss: 136.426666	ReLoss: 136.426666	KLDLoss: 96.148743
+Train Epoch: 50 [38400/60000 (64%)]	Loss: 124.885971	ReLoss: 124.885971	KLDLoss: 94.574707
+Train Epoch: 50 [57600/60000 (96%)]	Loss: 126.801514	ReLoss: 126.801514	KLDLoss: 102.649948
+===> Epoch: 50 Average loss: 126.4698, Kld loss: 125.4641, Recon loss: 126.4698
+===> Test loss: 128.8970, Kld loss: 125.9043, Recon loss: 128.8970
+Train Epoch: 51 [0/60000 (0%)]	Loss: 118.773605	ReLoss: 118.773605	KLDLoss: 172.931671
+Train Epoch: 51 [19200/60000 (32%)]	Loss: 131.670227	ReLoss: 131.670227	KLDLoss: 94.273712
+Train Epoch: 51 [38400/60000 (64%)]	Loss: 122.719147	ReLoss: 122.719147	KLDLoss: 125.674377
+Train Epoch: 51 [57600/60000 (96%)]	Loss: 125.330772	ReLoss: 125.330772	KLDLoss: 134.643204
+===> Epoch: 51 Average loss: 126.0016, Kld loss: 124.9024, Recon loss: 126.0016
+===> Test loss: 128.4736, Kld loss: 120.2108, Recon loss: 128.4736
+Train Epoch: 52 [0/60000 (0%)]	Loss: 133.300629	ReLoss: 133.300629	KLDLoss: 110.607239
+Train Epoch: 52 [19200/60000 (32%)]	Loss: 119.744827	ReLoss: 119.744827	KLDLoss: 144.052795
+Train Epoch: 52 [38400/60000 (64%)]	Loss: 136.878387	ReLoss: 136.878387	KLDLoss: 84.543030
+Train Epoch: 52 [57600/60000 (96%)]	Loss: 126.091606	ReLoss: 126.091606	KLDLoss: 106.985039
+===> Epoch: 52 Average loss: 125.7682, Kld loss: 125.4286, Recon loss: 125.7682
+===> Test loss: 128.9659, Kld loss: 125.9560, Recon loss: 128.9659
+Train Epoch: 53 [0/60000 (0%)]	Loss: 116.404091	ReLoss: 116.404091	KLDLoss: 113.069725
+Train Epoch: 53 [19200/60000 (32%)]	Loss: 127.737015	ReLoss: 127.737015	KLDLoss: 135.366409
+Train Epoch: 53 [38400/60000 (64%)]	Loss: 123.505646	ReLoss: 123.505646	KLDLoss: 172.864990
+Train Epoch: 53 [57600/60000 (96%)]	Loss: 125.816551	ReLoss: 125.816551	KLDLoss: 162.171387
+===> Epoch: 53 Average loss: 126.1626, Kld loss: 128.6260, Recon loss: 126.1626
+===> Test loss: 129.2496, Kld loss: 127.4032, Recon loss: 129.2496
+Train Epoch: 54 [0/60000 (0%)]	Loss: 119.697495	ReLoss: 119.697495	KLDLoss: 179.857162
+Train Epoch: 54 [19200/60000 (32%)]	Loss: 130.975693	ReLoss: 130.975693	KLDLoss: 134.589569
+Train Epoch: 54 [38400/60000 (64%)]	Loss: 128.482452	ReLoss: 128.482452	KLDLoss: 120.133537
+Train Epoch: 54 [57600/60000 (96%)]	Loss: 126.975662	ReLoss: 126.975662	KLDLoss: 123.421600
+===> Epoch: 54 Average loss: 126.0785, Kld loss: 130.2274, Recon loss: 126.0785
+===> Test loss: 128.7982, Kld loss: 129.5692, Recon loss: 128.7982
+Train Epoch: 55 [0/60000 (0%)]	Loss: 130.372223	ReLoss: 130.372223	KLDLoss: 112.076187
+Train Epoch: 55 [19200/60000 (32%)]	Loss: 127.674988	ReLoss: 127.674988	KLDLoss: 135.052704
+Train Epoch: 55 [38400/60000 (64%)]	Loss: 133.474304	ReLoss: 133.474304	KLDLoss: 107.120689
+Train Epoch: 55 [57600/60000 (96%)]	Loss: 121.274918	ReLoss: 121.274918	KLDLoss: 120.784546
+===> Epoch: 55 Average loss: 125.8442, Kld loss: 132.9944, Recon loss: 125.8442
+===> Test loss: 128.4287, Kld loss: 137.7662, Recon loss: 128.4287
+Train Epoch: 56 [0/60000 (0%)]	Loss: 136.056610	ReLoss: 136.056610	KLDLoss: 117.833405
+Train Epoch: 56 [19200/60000 (32%)]	Loss: 118.981277	ReLoss: 118.981277	KLDLoss: 195.072418
+Train Epoch: 56 [38400/60000 (64%)]	Loss: 136.481522	ReLoss: 136.481522	KLDLoss: 125.872574
+Train Epoch: 56 [57600/60000 (96%)]	Loss: 122.565872	ReLoss: 122.565872	KLDLoss: 156.498734
+===> Epoch: 56 Average loss: 125.7292, Kld loss: 137.0198, Recon loss: 125.7292
+===> Test loss: 129.0822, Kld loss: 139.0282, Recon loss: 129.0822
+Train Epoch: 57 [0/60000 (0%)]	Loss: 127.744911	ReLoss: 127.744911	KLDLoss: 150.814789
+Train Epoch: 57 [19200/60000 (32%)]	Loss: 126.698555	ReLoss: 126.698555	KLDLoss: 153.065002
+Train Epoch: 57 [38400/60000 (64%)]	Loss: 116.996826	ReLoss: 116.996826	KLDLoss: 155.652344
+Train Epoch: 57 [57600/60000 (96%)]	Loss: 111.939613	ReLoss: 111.939613	KLDLoss: 136.577240
+===> Epoch: 57 Average loss: 126.2849, Kld loss: 143.0865, Recon loss: 126.2849
+===> Test loss: 128.6182, Kld loss: 140.1584, Recon loss: 128.6182
+Train Epoch: 58 [0/60000 (0%)]	Loss: 120.018448	ReLoss: 120.018448	KLDLoss: 122.929459
+Train Epoch: 58 [19200/60000 (32%)]	Loss: 115.052933	ReLoss: 115.052933	KLDLoss: 232.674652
+Train Epoch: 58 [38400/60000 (64%)]	Loss: 128.016678	ReLoss: 128.016678	KLDLoss: 130.594910
+Train Epoch: 58 [57600/60000 (96%)]	Loss: 121.756577	ReLoss: 121.756577	KLDLoss: 163.526642
+===> Epoch: 58 Average loss: 125.8426, Kld loss: 143.3246, Recon loss: 125.8426
+===> Test loss: 128.9953, Kld loss: 144.2400, Recon loss: 128.9953
+Train Epoch: 59 [0/60000 (0%)]	Loss: 118.674591	ReLoss: 118.674591	KLDLoss: 146.488144
+Train Epoch: 59 [19200/60000 (32%)]	Loss: 129.930206	ReLoss: 129.930206	KLDLoss: 153.098724
+Train Epoch: 59 [38400/60000 (64%)]	Loss: 122.983841	ReLoss: 122.983841	KLDLoss: 131.817520
+Train Epoch: 59 [57600/60000 (96%)]	Loss: 133.938705	ReLoss: 133.938705	KLDLoss: 117.926193
+===> Epoch: 59 Average loss: 125.7844, Kld loss: 144.8093, Recon loss: 125.7844
+===> Test loss: 128.5985, Kld loss: 141.0275, Recon loss: 128.5985
+Train Epoch: 60 [0/60000 (0%)]	Loss: 132.899811	ReLoss: 132.899811	KLDLoss: 113.393524
+Train Epoch: 60 [19200/60000 (32%)]	Loss: 126.808517	ReLoss: 126.808517	KLDLoss: 126.062965
+Train Epoch: 60 [38400/60000 (64%)]	Loss: 125.288437	ReLoss: 125.288437	KLDLoss: 148.283478
+Train Epoch: 60 [57600/60000 (96%)]	Loss: 120.273331	ReLoss: 120.273331	KLDLoss: 124.446037
+===> Epoch: 60 Average loss: 125.7249, Kld loss: 151.4173, Recon loss: 125.7249
+===> Test loss: 129.7623, Kld loss: 144.5073, Recon loss: 129.7623
+Train Epoch: 61 [0/60000 (0%)]	Loss: 124.904152	ReLoss: 124.904152	KLDLoss: 166.604004
+Train Epoch: 61 [19200/60000 (32%)]	Loss: 112.017281	ReLoss: 112.017281	KLDLoss: 175.460068
+Train Epoch: 61 [38400/60000 (64%)]	Loss: 122.576721	ReLoss: 122.576721	KLDLoss: 164.535889
+Train Epoch: 61 [57600/60000 (96%)]	Loss: 125.779945	ReLoss: 125.779945	KLDLoss: 110.352623
+===> Epoch: 61 Average loss: 125.6507, Kld loss: 149.0336, Recon loss: 125.6507
+===> Test loss: 128.5860, Kld loss: 149.5295, Recon loss: 128.5860
+Train Epoch: 62 [0/60000 (0%)]	Loss: 125.020798	ReLoss: 125.020798	KLDLoss: 156.045807
+Train Epoch: 62 [19200/60000 (32%)]	Loss: 116.330437	ReLoss: 116.330437	KLDLoss: 178.707336
+Train Epoch: 62 [38400/60000 (64%)]	Loss: 116.759430	ReLoss: 116.759430	KLDLoss: 213.940399
+Train Epoch: 62 [57600/60000 (96%)]	Loss: 112.791962	ReLoss: 112.791962	KLDLoss: 209.117493
+===> Epoch: 62 Average loss: 126.0998, Kld loss: 153.3145, Recon loss: 126.0998
+===> Test loss: 128.4340, Kld loss: 154.0477, Recon loss: 128.4340
+Train Epoch: 63 [0/60000 (0%)]	Loss: 114.506638	ReLoss: 114.506638	KLDLoss: 174.752029
+Train Epoch: 63 [19200/60000 (32%)]	Loss: 116.032600	ReLoss: 116.032600	KLDLoss: 181.069366
+Train Epoch: 63 [38400/60000 (64%)]	Loss: 119.882278	ReLoss: 119.882278	KLDLoss: 165.983261
+Train Epoch: 63 [57600/60000 (96%)]	Loss: 127.939835	ReLoss: 127.939835	KLDLoss: 251.899399
+===> Epoch: 63 Average loss: 125.4233, Kld loss: 149.5320, Recon loss: 125.4233
+===> Test loss: 128.3750, Kld loss: 153.7040, Recon loss: 128.3750
+Train Epoch: 64 [0/60000 (0%)]	Loss: 127.902222	ReLoss: 127.902222	KLDLoss: 149.196472
+Train Epoch: 64 [19200/60000 (32%)]	Loss: 124.728523	ReLoss: 124.728523	KLDLoss: 196.252274
+Train Epoch: 64 [38400/60000 (64%)]	Loss: 120.491989	ReLoss: 120.491989	KLDLoss: 177.469330
+Train Epoch: 64 [57600/60000 (96%)]	Loss: 133.468231	ReLoss: 133.468231	KLDLoss: 125.618500
+===> Epoch: 64 Average loss: 125.3317, Kld loss: 146.5134, Recon loss: 125.3317
+===> Test loss: 128.6358, Kld loss: 141.9300, Recon loss: 128.6358
+Train Epoch: 65 [0/60000 (0%)]	Loss: 127.065353	ReLoss: 127.065353	KLDLoss: 140.286179
+Train Epoch: 65 [19200/60000 (32%)]	Loss: 132.352417	ReLoss: 132.352417	KLDLoss: 116.198166
+Train Epoch: 65 [38400/60000 (64%)]	Loss: 130.060272	ReLoss: 130.060272	KLDLoss: 132.987305
+Train Epoch: 65 [57600/60000 (96%)]	Loss: 126.835815	ReLoss: 126.835815	KLDLoss: 132.728424
+===> Epoch: 65 Average loss: 125.1215, Kld loss: 147.1010, Recon loss: 125.1215
+===> Test loss: 128.4021, Kld loss: 149.1157, Recon loss: 128.4021
+Train Epoch: 66 [0/60000 (0%)]	Loss: 129.843781	ReLoss: 129.843781	KLDLoss: 112.172203
+Train Epoch: 66 [19200/60000 (32%)]	Loss: 124.043655	ReLoss: 124.043655	KLDLoss: 168.123840
+Train Epoch: 66 [38400/60000 (64%)]	Loss: 128.248596	ReLoss: 128.248596	KLDLoss: 131.200958
+Train Epoch: 66 [57600/60000 (96%)]	Loss: 135.290558	ReLoss: 135.290558	KLDLoss: 93.363541
+===> Epoch: 66 Average loss: 125.3686, Kld loss: 154.8084, Recon loss: 125.3686
+===> Test loss: 128.5303, Kld loss: 165.4221, Recon loss: 128.5303
+Train Epoch: 67 [0/60000 (0%)]	Loss: 123.586853	ReLoss: 123.586853	KLDLoss: 142.913788
+Train Epoch: 67 [19200/60000 (32%)]	Loss: 126.562042	ReLoss: 126.562042	KLDLoss: 185.068878
+Train Epoch: 67 [38400/60000 (64%)]	Loss: 130.262344	ReLoss: 130.262344	KLDLoss: 115.918404
+Train Epoch: 67 [57600/60000 (96%)]	Loss: 119.511902	ReLoss: 119.511902	KLDLoss: 185.526062
+===> Epoch: 67 Average loss: 125.3771, Kld loss: 153.9096, Recon loss: 125.3771
+===> Test loss: 128.5713, Kld loss: 159.5666, Recon loss: 128.5713
+Train Epoch: 68 [0/60000 (0%)]	Loss: 132.832687	ReLoss: 132.832687	KLDLoss: 159.892548
+Train Epoch: 68 [19200/60000 (32%)]	Loss: 140.545975	ReLoss: 140.545975	KLDLoss: 150.272781
+Train Epoch: 68 [38400/60000 (64%)]	Loss: 126.332474	ReLoss: 126.332474	KLDLoss: 166.429733
+Train Epoch: 68 [57600/60000 (96%)]	Loss: 123.687576	ReLoss: 123.687576	KLDLoss: 123.964745
+===> Epoch: 68 Average loss: 125.1025, Kld loss: 160.0647, Recon loss: 125.1025
+===> Test loss: 128.4738, Kld loss: 166.9038, Recon loss: 128.4738
+Train Epoch: 69 [0/60000 (0%)]	Loss: 132.205231	ReLoss: 132.205231	KLDLoss: 182.864441
+Train Epoch: 69 [19200/60000 (32%)]	Loss: 129.278076	ReLoss: 129.278076	KLDLoss: 129.699493
+Train Epoch: 69 [38400/60000 (64%)]	Loss: 119.558640	ReLoss: 119.558640	KLDLoss: 170.284393
+Train Epoch: 69 [57600/60000 (96%)]	Loss: 126.746353	ReLoss: 126.746353	KLDLoss: 164.551605
+===> Epoch: 69 Average loss: 125.0569, Kld loss: 160.4512, Recon loss: 125.0569
+===> Test loss: 128.3560, Kld loss: 157.4812, Recon loss: 128.3560
+Train Epoch: 70 [0/60000 (0%)]	Loss: 118.804161	ReLoss: 118.804161	KLDLoss: 226.035645
+Train Epoch: 70 [19200/60000 (32%)]	Loss: 119.999710	ReLoss: 119.999710	KLDLoss: 167.138565
+Train Epoch: 70 [38400/60000 (64%)]	Loss: 126.510208	ReLoss: 126.510208	KLDLoss: 135.966187
+Train Epoch: 70 [57600/60000 (96%)]	Loss: 123.887886	ReLoss: 123.887886	KLDLoss: 132.099396
+===> Epoch: 70 Average loss: 124.7967, Kld loss: 159.2183, Recon loss: 124.7967
+===> Test loss: 128.6103, Kld loss: 151.4286, Recon loss: 128.6103
+Train Epoch: 71 [0/60000 (0%)]	Loss: 121.816620	ReLoss: 121.816620	KLDLoss: 161.032898
+Train Epoch: 71 [19200/60000 (32%)]	Loss: 121.581833	ReLoss: 121.581833	KLDLoss: 175.869751
+Train Epoch: 71 [38400/60000 (64%)]	Loss: 117.582237	ReLoss: 117.582237	KLDLoss: 147.220184
+Train Epoch: 71 [57600/60000 (96%)]	Loss: 128.756836	ReLoss: 128.756836	KLDLoss: 124.220123
+===> Epoch: 71 Average loss: 124.8659, Kld loss: 163.5367, Recon loss: 124.8659
+===> Test loss: 129.5917, Kld loss: 163.5916, Recon loss: 129.5917
+Train Epoch: 72 [0/60000 (0%)]	Loss: 132.245590	ReLoss: 132.245590	KLDLoss: 122.950630
+Train Epoch: 72 [19200/60000 (32%)]	Loss: 122.477997	ReLoss: 122.477997	KLDLoss: 145.522095
+Train Epoch: 72 [38400/60000 (64%)]	Loss: 124.804291	ReLoss: 124.804291	KLDLoss: 168.061264
+Train Epoch: 72 [57600/60000 (96%)]	Loss: 128.138062	ReLoss: 128.138062	KLDLoss: 144.718155
+===> Epoch: 72 Average loss: 124.8635, Kld loss: 163.6842, Recon loss: 124.8635
+===> Test loss: 128.2982, Kld loss: 171.5261, Recon loss: 128.2982
+Train Epoch: 73 [0/60000 (0%)]	Loss: 124.142624	ReLoss: 124.142624	KLDLoss: 162.351654
+Train Epoch: 73 [19200/60000 (32%)]	Loss: 119.574020	ReLoss: 119.574020	KLDLoss: 232.820541
+Train Epoch: 73 [38400/60000 (64%)]	Loss: 130.734680	ReLoss: 130.734680	KLDLoss: 159.727020
+Train Epoch: 73 [57600/60000 (96%)]	Loss: 121.891975	ReLoss: 121.891975	KLDLoss: 183.387787
+===> Epoch: 73 Average loss: 124.6396, Kld loss: 167.2091, Recon loss: 124.6396
+===> Test loss: 128.5373, Kld loss: 157.6664, Recon loss: 128.5373
+Train Epoch: 74 [0/60000 (0%)]	Loss: 121.033211	ReLoss: 121.033211	KLDLoss: 253.738525
+Train Epoch: 74 [19200/60000 (32%)]	Loss: 124.082794	ReLoss: 124.082794	KLDLoss: 169.237305
+Train Epoch: 74 [38400/60000 (64%)]	Loss: 132.610962	ReLoss: 132.610962	KLDLoss: 124.292099
+Train Epoch: 74 [57600/60000 (96%)]	Loss: 123.685837	ReLoss: 123.685837	KLDLoss: 143.485138
+===> Epoch: 74 Average loss: 124.5261, Kld loss: 164.4859, Recon loss: 124.5261
+===> Test loss: 128.2264, Kld loss: 168.2127, Recon loss: 128.2264
+Train Epoch: 75 [0/60000 (0%)]	Loss: 138.201813	ReLoss: 138.201813	KLDLoss: 147.731232
+Train Epoch: 75 [19200/60000 (32%)]	Loss: 117.434296	ReLoss: 117.434296	KLDLoss: 127.284508
+Train Epoch: 75 [38400/60000 (64%)]	Loss: 124.768051	ReLoss: 124.768051	KLDLoss: 172.081055
+Train Epoch: 75 [57600/60000 (96%)]	Loss: 131.807281	ReLoss: 131.807281	KLDLoss: 150.633408
+===> Epoch: 75 Average loss: 124.6107, Kld loss: 160.3278, Recon loss: 124.6107
+===> Test loss: 128.3037, Kld loss: 159.4546, Recon loss: 128.3037
+Train Epoch: 76 [0/60000 (0%)]	Loss: 128.612976	ReLoss: 128.612976	KLDLoss: 132.692596
+Train Epoch: 76 [19200/60000 (32%)]	Loss: 127.959282	ReLoss: 127.959282	KLDLoss: 114.604630
+Train Epoch: 76 [38400/60000 (64%)]	Loss: 132.921722	ReLoss: 132.921722	KLDLoss: 163.557541
+Train Epoch: 76 [57600/60000 (96%)]	Loss: 125.559731	ReLoss: 125.559731	KLDLoss: 189.103424
+===> Epoch: 76 Average loss: 124.4475, Kld loss: 165.5110, Recon loss: 124.4475
+===> Test loss: 128.6474, Kld loss: 165.5559, Recon loss: 128.6474
+Train Epoch: 77 [0/60000 (0%)]	Loss: 127.933426	ReLoss: 127.933426	KLDLoss: 180.153809
+Train Epoch: 77 [19200/60000 (32%)]	Loss: 126.650421	ReLoss: 126.650421	KLDLoss: 142.924881
+Train Epoch: 77 [38400/60000 (64%)]	Loss: 126.474098	ReLoss: 126.474098	KLDLoss: 215.614105
+Train Epoch: 77 [57600/60000 (96%)]	Loss: 120.471672	ReLoss: 120.471672	KLDLoss: 168.311432
+===> Epoch: 77 Average loss: 124.1853, Kld loss: 172.3698, Recon loss: 124.1853
+===> Test loss: 127.8486, Kld loss: 174.4406, Recon loss: 127.8486
+Train Epoch: 78 [0/60000 (0%)]	Loss: 117.777359	ReLoss: 117.777359	KLDLoss: 214.492188
+Train Epoch: 78 [19200/60000 (32%)]	Loss: 121.610092	ReLoss: 121.610092	KLDLoss: 177.938248
+Train Epoch: 78 [38400/60000 (64%)]	Loss: 123.775925	ReLoss: 123.775925	KLDLoss: 184.197662
+Train Epoch: 78 [57600/60000 (96%)]	Loss: 133.709564	ReLoss: 133.709564	KLDLoss: 118.894478
+===> Epoch: 78 Average loss: 124.5020, Kld loss: 180.5371, Recon loss: 124.5020
+===> Test loss: 128.4145, Kld loss: 177.6099, Recon loss: 128.4145
+Train Epoch: 79 [0/60000 (0%)]	Loss: 134.967194	ReLoss: 134.967194	KLDLoss: 144.936249
+Train Epoch: 79 [19200/60000 (32%)]	Loss: 124.994553	ReLoss: 124.994553	KLDLoss: 191.055786
+Train Epoch: 79 [38400/60000 (64%)]	Loss: 124.656967	ReLoss: 124.656967	KLDLoss: 170.038361
+Train Epoch: 79 [57600/60000 (96%)]	Loss: 114.868362	ReLoss: 114.868362	KLDLoss: 165.504013
+===> Epoch: 79 Average loss: 124.3716, Kld loss: 182.7562, Recon loss: 124.3716
+===> Test loss: 127.6595, Kld loss: 180.8013, Recon loss: 127.6595
+Train Epoch: 80 [0/60000 (0%)]	Loss: 121.801071	ReLoss: 121.801071	KLDLoss: 192.063675
+Train Epoch: 80 [19200/60000 (32%)]	Loss: 118.427986	ReLoss: 118.427986	KLDLoss: 246.680099
+Train Epoch: 80 [38400/60000 (64%)]	Loss: 130.503235	ReLoss: 130.503235	KLDLoss: 146.526917
+Train Epoch: 80 [57600/60000 (96%)]	Loss: 122.076645	ReLoss: 122.076645	KLDLoss: 207.163300
+===> Epoch: 80 Average loss: 124.1366, Kld loss: 183.4695, Recon loss: 124.1366
+===> Test loss: 128.1799, Kld loss: 186.6408, Recon loss: 128.1799
+Train Epoch: 81 [0/60000 (0%)]	Loss: 128.162888	ReLoss: 128.162888	KLDLoss: 281.535309
+Train Epoch: 81 [19200/60000 (32%)]	Loss: 126.376305	ReLoss: 126.376305	KLDLoss: 185.136993
+Train Epoch: 81 [38400/60000 (64%)]	Loss: 124.110138	ReLoss: 124.110138	KLDLoss: 180.167557
+Train Epoch: 81 [57600/60000 (96%)]	Loss: 131.494263	ReLoss: 131.494263	KLDLoss: 139.912415
+===> Epoch: 81 Average loss: 123.9703, Kld loss: 180.2820, Recon loss: 123.9703
+===> Test loss: 128.2931, Kld loss: 176.1701, Recon loss: 128.2931
+Train Epoch: 82 [0/60000 (0%)]	Loss: 124.533951	ReLoss: 124.533951	KLDLoss: 183.073792
+Train Epoch: 82 [19200/60000 (32%)]	Loss: 119.989716	ReLoss: 119.989716	KLDLoss: 189.322510
+Train Epoch: 82 [38400/60000 (64%)]	Loss: 126.910049	ReLoss: 126.910049	KLDLoss: 113.077576
+Train Epoch: 82 [57600/60000 (96%)]	Loss: 119.540390	ReLoss: 119.540390	KLDLoss: 162.236252
+===> Epoch: 82 Average loss: 124.1352, Kld loss: 175.9336, Recon loss: 124.1352
+===> Test loss: 129.6491, Kld loss: 182.0216, Recon loss: 129.6491
+Train Epoch: 83 [0/60000 (0%)]	Loss: 128.150528	ReLoss: 128.150528	KLDLoss: 183.814697
+Train Epoch: 83 [19200/60000 (32%)]	Loss: 122.150314	ReLoss: 122.150314	KLDLoss: 195.038605
+Train Epoch: 83 [38400/60000 (64%)]	Loss: 113.000641	ReLoss: 113.000641	KLDLoss: 161.091431
+Train Epoch: 83 [57600/60000 (96%)]	Loss: 114.931946	ReLoss: 114.931946	KLDLoss: 206.091690
+===> Epoch: 83 Average loss: 123.6803, Kld loss: 179.6771, Recon loss: 123.6803
+===> Test loss: 128.1507, Kld loss: 177.6183, Recon loss: 128.1507
+Train Epoch: 84 [0/60000 (0%)]	Loss: 124.458405	ReLoss: 124.458405	KLDLoss: 177.714355
+Train Epoch: 84 [19200/60000 (32%)]	Loss: 121.619530	ReLoss: 121.619530	KLDLoss: 228.844513
+Train Epoch: 84 [38400/60000 (64%)]	Loss: 126.567657	ReLoss: 126.567657	KLDLoss: 140.570419
+Train Epoch: 84 [57600/60000 (96%)]	Loss: 125.668556	ReLoss: 125.668556	KLDLoss: 162.891022
+===> Epoch: 84 Average loss: 123.6004, Kld loss: 177.4866, Recon loss: 123.6004
+===> Test loss: 127.9703, Kld loss: 173.8846, Recon loss: 127.9703
+Train Epoch: 85 [0/60000 (0%)]	Loss: 133.932770	ReLoss: 133.932770	KLDLoss: 196.289734
+Train Epoch: 85 [19200/60000 (32%)]	Loss: 134.181870	ReLoss: 134.181870	KLDLoss: 164.631287
+Train Epoch: 85 [38400/60000 (64%)]	Loss: 116.689522	ReLoss: 116.689522	KLDLoss: 165.910309
+Train Epoch: 85 [57600/60000 (96%)]	Loss: 118.764809	ReLoss: 118.764809	KLDLoss: 183.543060
+===> Epoch: 85 Average loss: 123.8180, Kld loss: 178.8736, Recon loss: 123.8180
+===> Test loss: 127.7334, Kld loss: 178.2886, Recon loss: 127.7334
+Train Epoch: 86 [0/60000 (0%)]	Loss: 119.086205	ReLoss: 119.086205	KLDLoss: 211.567917
+Train Epoch: 86 [19200/60000 (32%)]	Loss: 127.482040	ReLoss: 127.482040	KLDLoss: 142.710449
+Train Epoch: 86 [38400/60000 (64%)]	Loss: 111.184578	ReLoss: 111.184578	KLDLoss: 250.234558
+Train Epoch: 86 [57600/60000 (96%)]	Loss: 123.132034	ReLoss: 123.132034	KLDLoss: 203.351746
+===> Epoch: 86 Average loss: 123.7087, Kld loss: 182.3342, Recon loss: 123.7087
+===> Test loss: 128.4407, Kld loss: 189.3480, Recon loss: 128.4407
+Train Epoch: 87 [0/60000 (0%)]	Loss: 121.341820	ReLoss: 121.341820	KLDLoss: 160.054413
+Train Epoch: 87 [19200/60000 (32%)]	Loss: 123.660767	ReLoss: 123.660767	KLDLoss: 194.232178
+Train Epoch: 87 [38400/60000 (64%)]	Loss: 119.395264	ReLoss: 119.395264	KLDLoss: 279.095978
+Train Epoch: 87 [57600/60000 (96%)]	Loss: 123.373444	ReLoss: 123.373444	KLDLoss: 176.855835
+===> Epoch: 87 Average loss: 124.1521, Kld loss: 195.4201, Recon loss: 124.1521
+===> Test loss: 128.2912, Kld loss: 194.5098, Recon loss: 128.2912
+Train Epoch: 88 [0/60000 (0%)]	Loss: 118.220985	ReLoss: 118.220985	KLDLoss: 235.784424
+Train Epoch: 88 [19200/60000 (32%)]	Loss: 130.411865	ReLoss: 130.411865	KLDLoss: 109.013863
+Train Epoch: 88 [38400/60000 (64%)]	Loss: 122.518738	ReLoss: 122.518738	KLDLoss: 260.001770
+Train Epoch: 88 [57600/60000 (96%)]	Loss: 130.928436	ReLoss: 130.928436	KLDLoss: 227.400909
+===> Epoch: 88 Average loss: 124.2982, Kld loss: 198.4082, Recon loss: 124.2982
+===> Test loss: 127.9419, Kld loss: 195.2611, Recon loss: 127.9419
+Train Epoch: 89 [0/60000 (0%)]	Loss: 130.668472	ReLoss: 130.668472	KLDLoss: 138.160492
+Train Epoch: 89 [19200/60000 (32%)]	Loss: 125.119980	ReLoss: 125.119980	KLDLoss: 223.990173
+Train Epoch: 89 [38400/60000 (64%)]	Loss: 119.800453	ReLoss: 119.800453	KLDLoss: 197.402603
+Train Epoch: 89 [57600/60000 (96%)]	Loss: 136.474487	ReLoss: 136.474487	KLDLoss: 137.685486
+===> Epoch: 89 Average loss: 123.8729, Kld loss: 197.7731, Recon loss: 123.8729
+===> Test loss: 128.1522, Kld loss: 195.3190, Recon loss: 128.1522
+Train Epoch: 90 [0/60000 (0%)]	Loss: 131.710800	ReLoss: 131.710800	KLDLoss: 184.029236
+Train Epoch: 90 [19200/60000 (32%)]	Loss: 124.634369	ReLoss: 124.634369	KLDLoss: 182.299713
+Train Epoch: 90 [38400/60000 (64%)]	Loss: 129.318024	ReLoss: 129.318024	KLDLoss: 224.495911
+Train Epoch: 90 [57600/60000 (96%)]	Loss: 125.590569	ReLoss: 125.590569	KLDLoss: 193.305695
+===> Epoch: 90 Average loss: 123.6106, Kld loss: 196.9762, Recon loss: 123.6106
+===> Test loss: 128.2135, Kld loss: 198.7464, Recon loss: 128.2135
+Train Epoch: 91 [0/60000 (0%)]	Loss: 131.116302	ReLoss: 131.116302	KLDLoss: 134.007904
+Train Epoch: 91 [19200/60000 (32%)]	Loss: 110.485504	ReLoss: 110.485504	KLDLoss: 318.632111
+Train Epoch: 91 [38400/60000 (64%)]	Loss: 124.696060	ReLoss: 124.696060	KLDLoss: 206.633820
+Train Epoch: 91 [57600/60000 (96%)]	Loss: 118.849503	ReLoss: 118.849503	KLDLoss: 264.162842
+===> Epoch: 91 Average loss: 123.7970, Kld loss: 200.4998, Recon loss: 123.7970
+===> Test loss: 127.7828, Kld loss: 193.1669, Recon loss: 127.7828
+Train Epoch: 92 [0/60000 (0%)]	Loss: 121.982483	ReLoss: 121.982483	KLDLoss: 259.917786
+Train Epoch: 92 [19200/60000 (32%)]	Loss: 136.354309	ReLoss: 136.354309	KLDLoss: 174.397354
+Train Epoch: 92 [38400/60000 (64%)]	Loss: 133.773712	ReLoss: 133.773712	KLDLoss: 146.420593
+Train Epoch: 92 [57600/60000 (96%)]	Loss: 120.600540	ReLoss: 120.600540	KLDLoss: 307.357422
+===> Epoch: 92 Average loss: 123.9543, Kld loss: 201.7937, Recon loss: 123.9543
+===> Test loss: 128.5387, Kld loss: 197.0601, Recon loss: 128.5387
+Train Epoch: 93 [0/60000 (0%)]	Loss: 123.602333	ReLoss: 123.602333	KLDLoss: 193.738571
+Train Epoch: 93 [19200/60000 (32%)]	Loss: 125.445831	ReLoss: 125.445831	KLDLoss: 277.964478
+Train Epoch: 93 [38400/60000 (64%)]	Loss: 112.998970	ReLoss: 112.998970	KLDLoss: 224.881485
+Train Epoch: 93 [57600/60000 (96%)]	Loss: 113.281662	ReLoss: 113.281662	KLDLoss: 242.052170
+===> Epoch: 93 Average loss: 123.8080, Kld loss: 198.2544, Recon loss: 123.8080
+===> Test loss: 128.3974, Kld loss: 209.6568, Recon loss: 128.3974
+Train Epoch: 94 [0/60000 (0%)]	Loss: 119.659363	ReLoss: 119.659363	KLDLoss: 291.628357
+Train Epoch: 94 [19200/60000 (32%)]	Loss: 126.986855	ReLoss: 126.986855	KLDLoss: 207.491379
+Train Epoch: 94 [38400/60000 (64%)]	Loss: 127.973419	ReLoss: 127.973419	KLDLoss: 194.576019
+Train Epoch: 94 [57600/60000 (96%)]	Loss: 122.304794	ReLoss: 122.304794	KLDLoss: 256.346008
+===> Epoch: 94 Average loss: 123.6370, Kld loss: 207.7793, Recon loss: 123.6370
+===> Test loss: 128.2116, Kld loss: 205.3432, Recon loss: 128.2116
+Train Epoch: 95 [0/60000 (0%)]	Loss: 119.712288	ReLoss: 119.712288	KLDLoss: 294.107300
+Train Epoch: 95 [19200/60000 (32%)]	Loss: 122.346329	ReLoss: 122.346329	KLDLoss: 229.559921
+Train Epoch: 95 [38400/60000 (64%)]	Loss: 132.023163	ReLoss: 132.023163	KLDLoss: 180.949860
+Train Epoch: 95 [57600/60000 (96%)]	Loss: 128.416641	ReLoss: 128.416641	KLDLoss: 182.304291
+===> Epoch: 95 Average loss: 123.8629, Kld loss: 201.0154, Recon loss: 123.8629
+===> Test loss: 128.5486, Kld loss: 199.2238, Recon loss: 128.5486
+Train Epoch: 96 [0/60000 (0%)]	Loss: 120.707352	ReLoss: 120.707352	KLDLoss: 207.267136
+Train Epoch: 96 [19200/60000 (32%)]	Loss: 131.918732	ReLoss: 131.918732	KLDLoss: 190.430557
+Train Epoch: 96 [38400/60000 (64%)]	Loss: 123.796814	ReLoss: 123.796814	KLDLoss: 223.868851
+Train Epoch: 96 [57600/60000 (96%)]	Loss: 124.979836	ReLoss: 124.979836	KLDLoss: 197.020340
+===> Epoch: 96 Average loss: 123.5085, Kld loss: 215.1427, Recon loss: 123.5085
+===> Test loss: 128.0691, Kld loss: 207.3669, Recon loss: 128.0691
+Train Epoch: 97 [0/60000 (0%)]	Loss: 124.000824	ReLoss: 124.000824	KLDLoss: 242.078033
+Train Epoch: 97 [19200/60000 (32%)]	Loss: 128.554596	ReLoss: 128.554596	KLDLoss: 223.867340
+Train Epoch: 97 [38400/60000 (64%)]	Loss: 114.162941	ReLoss: 114.162941	KLDLoss: 247.407806
+Train Epoch: 97 [57600/60000 (96%)]	Loss: 122.026886	ReLoss: 122.026886	KLDLoss: 195.598663
+===> Epoch: 97 Average loss: 123.0079, Kld loss: 214.2520, Recon loss: 123.0079
+===> Test loss: 127.7272, Kld loss: 212.7912, Recon loss: 127.7272
+Train Epoch: 98 [0/60000 (0%)]	Loss: 134.496735	ReLoss: 134.496735	KLDLoss: 174.830704
+Train Epoch: 98 [19200/60000 (32%)]	Loss: 129.688721	ReLoss: 129.688721	KLDLoss: 172.140106
+Train Epoch: 98 [38400/60000 (64%)]	Loss: 124.562820	ReLoss: 124.562820	KLDLoss: 183.396301
+Train Epoch: 98 [57600/60000 (96%)]	Loss: 122.239937	ReLoss: 122.239937	KLDLoss: 221.889648
+===> Epoch: 98 Average loss: 123.4439, Kld loss: 213.6048, Recon loss: 123.4439
+===> Test loss: 128.6991, Kld loss: 206.9089, Recon loss: 128.6991
+Train Epoch: 99 [0/60000 (0%)]	Loss: 121.605972	ReLoss: 121.605972	KLDLoss: 212.753235
+Train Epoch: 99 [19200/60000 (32%)]	Loss: 124.739822	ReLoss: 124.739822	KLDLoss: 196.293732
+Train Epoch: 99 [38400/60000 (64%)]	Loss: 128.097229	ReLoss: 128.097229	KLDLoss: 225.434845
+Train Epoch: 99 [57600/60000 (96%)]	Loss: 128.035339	ReLoss: 128.035339	KLDLoss: 223.010376
+===> Epoch: 99 Average loss: 123.8891, Kld loss: 216.3741, Recon loss: 123.8891
+===> Test loss: 128.1287, Kld loss: 214.1800, Recon loss: 128.1287
+Train Epoch: 100 [0/60000 (0%)]	Loss: 118.017387	ReLoss: 118.017387	KLDLoss: 243.336517
+Train Epoch: 100 [19200/60000 (32%)]	Loss: 126.607193	ReLoss: 126.607193	KLDLoss: 238.843781
+Train Epoch: 100 [38400/60000 (64%)]	Loss: 121.960609	ReLoss: 121.960609	KLDLoss: 242.844131
+Train Epoch: 100 [57600/60000 (96%)]	Loss: 125.364456	ReLoss: 125.364456	KLDLoss: 165.093079
+===> Epoch: 100 Average loss: 123.7482, Kld loss: 220.3796, Recon loss: 123.7482
+===> Test loss: 128.2955, Kld loss: 222.5251, Recon loss: 128.2955
+-----------------------------------------------------------------
+-----------------------------------------------------------------
